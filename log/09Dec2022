@@ -1,0 +1,1916 @@
+2022-12-09 10:47:13.630 | INFO     | __mp_main__:handle_client:71 - GET /john/index1.html HTTP/1.1
+2022-12-09 10:47:13.634 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 10:47:13.637 | INFO     | __mp_main__:handle_client:157 - Date:Fri, 09 Dec 2022 02:47:13 GMT+0800 (CST) 
+2022-12-09 10:47:13.639 | INFO     | __mp_main__:handle_client:159 - Content-Type: TEXT/HTML 
+2022-12-09 10:47:13.642 | INFO     | __mp_main__:handle_client:161 - Content-Length:11814 
+2022-12-09 10:47:13.971 | INFO     | __mp_main__:handle_client:71 - GET /john/js/vendor/jquery-1.10.1.min.js HTTP/1.1
+2022-12-09 10:47:13.978 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 10:47:13.982 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 02:47:13 GMT+0800 (CST) 
+2022-12-09 10:47:13.985 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 10:47:13.988 | INFO     | __mp_main__:handle_client:225 - Content-Length:93074 
+2022-12-09 10:47:14.459 | INFO     | __mp_main__:handle_client:71 - GET /john/css/normalize.min.css HTTP/1.1
+2022-12-09 10:47:14.482 | INFO     | __mp_main__:handle_client:71 - GET /john/css/animate.min.css HTTP/1.1
+2022-12-09 10:47:14.487 | INFO     | __mp_main__:handle_client:71 - GET /john/js/bootstrap.min.js HTTP/1.1
+2022-12-09 10:47:14.490 | INFO     | __mp_main__:handle_client:71 - GET /john/css/templatemo_style.css HTTP/1.1
+2022-12-09 10:47:14.492 | INFO     | __mp_main__:handle_client:71 - GET /john/css/bootstrap.min.css HTTP/1.1
+2022-12-09 10:47:14.494 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 10:47:14.504 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 10:47:14.509 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 10:47:14.509 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 10:47:14.511 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 02:47:14 GMT+0800 (CST) 
+2022-12-09 10:47:14.514 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 10:47:14.518 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 02:47:14 GMT+0800 (CST) 
+2022-12-09 10:47:14.522 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 02:47:14 GMT+0800 (CST) 
+2022-12-09 10:47:14.523 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 02:47:14 GMT+0800 (CST) 
+2022-12-09 10:47:14.523 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 10:47:14.524 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 02:47:14 GMT+0800 (CST) 
+2022-12-09 10:47:14.531 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 10:47:14.533 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 10:47:14.533 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 10:47:14.535 | INFO     | __mp_main__:handle_client:217 - Content-Length:2502 
+2022-12-09 10:47:14.536 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 10:47:14.540 | INFO     | __mp_main__:handle_client:217 - Content-Length:57485 
+2022-12-09 10:47:14.543 | INFO     | __mp_main__:handle_client:225 - Content-Length:31822 
+2022-12-09 10:47:14.543 | INFO     | __mp_main__:handle_client:217 - Content-Length:14352 
+2022-12-09 10:47:14.550 | INFO     | __mp_main__:handle_client:217 - Content-Length:109518 
+2022-12-09 10:47:14.680 | INFO     | __mp_main__:handle_client:71 - GET /john/js/plugins.js HTTP/1.1
+2022-12-09 10:47:14.684 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 10:47:14.688 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 02:47:14 GMT+0800 (CST) 
+2022-12-09 10:47:14.690 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 10:47:14.693 | INFO     | __mp_main__:handle_client:225 - Content-Length:14626 
+2022-12-09 10:47:15.235 | INFO     | __mp_main__:handle_client:71 - GET /john/js/templatemo_custom.js HTTP/1.1
+2022-12-09 10:47:15.243 | INFO     | __mp_main__:handle_client:71 - GET /john/js/vendor/modernizr-2.6.2.min.js HTTP/1.1
+2022-12-09 10:47:15.247 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 10:47:15.251 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 10:47:15.254 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 02:47:15 GMT+0800 (CST) 
+2022-12-09 10:47:15.255 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 02:47:15 GMT+0800 (CST) 
+2022-12-09 10:47:15.257 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 10:47:15.259 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 10:47:15.261 | INFO     | __mp_main__:handle_client:225 - Content-Length:2200 
+2022-12-09 10:47:15.262 | INFO     | __mp_main__:handle_client:225 - Content-Length:15420 
+2022-12-09 10:47:15.303 | INFO     | __mp_main__:handle_client:71 - GET /john/images/slide1.png HTTP/1.1
+2022-12-09 10:47:15.312 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 10:47:15.318 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 02:47:15 GMT+0800 (CST) 
+2022-12-09 10:47:15.324 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 10:47:15.326 | INFO     | __mp_main__:handle_client:177 - Content-Length:90485 
+2022-12-09 10:47:15.361 | INFO     | __mp_main__:handle_client:71 - GET /john/images/uic.png HTTP/1.1
+2022-12-09 10:47:15.368 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 10:47:15.373 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 02:47:15 GMT+0800 (CST) 
+2022-12-09 10:47:15.380 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 10:47:15.385 | INFO     | __mp_main__:handle_client:177 - Content-Length:18800 
+2022-12-09 10:47:16.145 | INFO     | __mp_main__:handle_client:71 - GET /john/y860.mp3 HTTP/1.1
+2022-12-09 10:47:16.149 | INFO     | __mp_main__:handle_client:71 - GET /john/images/service-bg.png HTTP/1.1
+2022-12-09 10:47:16.185 | INFO     | __mp_main__:handle_client:71 - GET /john/twistzz.jpg HTTP/1.1
+2022-12-09 10:47:16.187 | INFO     | __mp_main__:handle_client:71 - GET /john/123.jpg HTTP/1.1
+2022-12-09 10:47:16.191 | INFO     | __mp_main__:handle_client:71 - GET /john/images/product-1.png HTTP/1.1
+2022-12-09 10:47:16.194 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 10:47:16.197 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 10:47:16.213 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 10:47:16.216 | INFO     | __mp_main__:handle_client:189 - Date:Fri, 09 Dec 2022 02:47:16 GMT+0800 (CST) 
+2022-12-09 10:47:16.218 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 10:47:16.218 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 10:47:16.220 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 02:47:16 GMT+0800 (CST) 
+2022-12-09 10:47:16.223 | INFO     | __mp_main__:handle_client:71 - GET /john/images/slider-bg.png HTTP/1.1
+2022-12-09 10:47:16.229 | INFO     | __mp_main__:handle_client:165 - Date:Fri, 09 Dec 2022 02:47:16 GMT+0800 (CST) 
+2022-12-09 10:47:16.231 | INFO     | __mp_main__:handle_client:191 - Content-Type: MP3 
+2022-12-09 10:47:16.232 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 02:47:16 GMT+0800 (CST) 
+2022-12-09 10:47:16.233 | INFO     | __mp_main__:handle_client:165 - Date:Fri, 09 Dec 2022 02:47:16 GMT+0800 (CST) 
+2022-12-09 10:47:16.233 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 10:47:16.239 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 10:47:16.241 | INFO     | __mp_main__:handle_client:167 - Content-Type: image/jpg 
+2022-12-09 10:47:16.243 | INFO     | __mp_main__:handle_client:193 - Content-Length:543860 
+2022-12-09 10:47:16.243 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 10:47:16.244 | INFO     | __mp_main__:handle_client:167 - Content-Type: image/jpg 
+2022-12-09 10:47:16.244 | INFO     | __mp_main__:handle_client:177 - Content-Length:159770 
+2022-12-09 10:47:16.253 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 02:47:16 GMT+0800 (CST) 
+2022-12-09 10:47:16.255 | INFO     | __mp_main__:handle_client:169 - Content-Length:32637 
+2022-12-09 10:47:16.259 | INFO     | __mp_main__:handle_client:177 - Content-Length:37845 
+2022-12-09 10:47:16.259 | INFO     | __mp_main__:handle_client:169 - Content-Length:2799166 
+2022-12-09 10:47:16.268 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 10:47:16.306 | INFO     | __mp_main__:handle_client:177 - Content-Length:358447 
+2022-12-09 10:47:17.038 | INFO     | __mp_main__:handle_client:71 - GET /john/images/products-bg.png HTTP/1.1
+2022-12-09 10:47:17.039 | INFO     | __mp_main__:handle_client:71 - GET /john/Patrick.gif HTTP/1.1
+2022-12-09 10:47:17.056 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 10:47:17.057 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 10:47:17.070 | INFO     | __mp_main__:handle_client:71 - GET /john/y860.mp3 HTTP/1.1
+2022-12-09 10:47:17.075 | INFO     | __mp_main__:handle_client:71 - GET /john/images/contact-bg.png HTTP/1.1
+2022-12-09 10:47:17.076 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 02:47:17 GMT+0800 (CST) 
+2022-12-09 10:47:17.077 | INFO     | __mp_main__:handle_client:181 - Date:Fri, 09 Dec 2022 02:47:17 GMT+0800 (CST) 
+2022-12-09 10:47:17.089 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 10:47:17.094 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 10:47:17.095 | INFO     | __mp_main__:handle_client:183 - Content-Type: PNG
+2022-12-09 10:47:17.101 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 10:47:17.111 | INFO     | __mp_main__:handle_client:71 - GET /john/images/video-bg.png HTTP/1.1
+2022-12-09 10:47:17.112 | INFO     | __mp_main__:handle_client:189 - Date:Fri, 09 Dec 2022 02:47:17 GMT+0800 (CST) 
+2022-12-09 10:47:17.113 | INFO     | __mp_main__:handle_client:71 - GET /john/video.mp4 HTTP/1.1
+2022-12-09 10:47:17.116 | INFO     | __mp_main__:handle_client:177 - Content-Length:238403 
+2022-12-09 10:47:17.118 | INFO     | __mp_main__:handle_client:185 - Content-Length:38614 
+2022-12-09 10:47:17.121 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 02:47:17 GMT+0800 (CST) 
+2022-12-09 10:47:17.126 | INFO     | __mp_main__:handle_client:191 - Content-Type: MP3 
+2022-12-09 10:47:17.130 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 10:47:17.138 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 10:47:17.143 | INFO     | __mp_main__:handle_client:193 - Content-Length:543860 
+2022-12-09 10:47:17.148 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 02:47:17 GMT+0800 (CST) 
+2022-12-09 10:47:17.156 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 10:47:17.156 | INFO     | __mp_main__:handle_client:177 - Content-Length:830451 
+2022-12-09 10:47:17.168 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 10:47:17.172 | INFO     | __mp_main__:handle_client:197 - Date:Fri, 09 Dec 2022 02:47:17 GMT+0800 (CST) 
+2022-12-09 10:47:17.184 | INFO     | __mp_main__:handle_client:177 - Content-Length:277282 
+2022-12-09 10:47:17.188 | INFO     | __mp_main__:handle_client:199 - Content-Type: MP4 
+2022-12-09 10:47:17.198 | INFO     | __mp_main__:handle_client:201 - Content-Length:22766338 
+2022-12-09 13:59:53.293 | INFO     | __mp_main__:handle_client:71 - GET /john/index1.html HTTP/1.1
+2022-12-09 13:59:53.298 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 13:59:53.303 | INFO     | __mp_main__:handle_client:157 - Date:Fri, 09 Dec 2022 05:59:53 GMT+0800 (CST) 
+2022-12-09 13:59:53.307 | INFO     | __mp_main__:handle_client:159 - Content-Type: TEXT/HTML 
+2022-12-09 13:59:53.312 | INFO     | __mp_main__:handle_client:161 - Content-Length:11816 
+2022-12-09 13:59:53.609 | INFO     | __mp_main__:handle_client:71 - GET /john/js/vendor/jquery-1.10.1.min.js HTTP/1.1
+2022-12-09 13:59:53.615 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 13:59:53.619 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 05:59:53 GMT+0800 (CST) 
+2022-12-09 13:59:53.622 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 13:59:53.626 | INFO     | __mp_main__:handle_client:225 - Content-Length:93074 
+2022-12-09 13:59:54.182 | INFO     | __mp_main__:handle_client:71 - GET /john/css/normalize.min.css HTTP/1.1
+2022-12-09 13:59:54.188 | INFO     | __mp_main__:handle_client:71 - GET /john/css/templatemo_style.css HTTP/1.1
+2022-12-09 13:59:54.194 | INFO     | __mp_main__:handle_client:71 - GET /john/css/bootstrap.min.css HTTP/1.1
+2022-12-09 13:59:54.195 | INFO     | __mp_main__:handle_client:71 - GET /john/css/animate.min.css HTTP/1.1
+2022-12-09 13:59:54.198 | INFO     | __mp_main__:handle_client:71 - GET /john/js/bootstrap.min.js HTTP/1.1
+2022-12-09 13:59:54.203 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 13:59:54.206 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 13:59:54.212 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 13:59:54.213 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 13:59:54.216 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 13:59:54.219 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 05:59:54 GMT+0800 (CST) 
+2022-12-09 13:59:54.220 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 05:59:54 GMT+0800 (CST) 
+2022-12-09 13:59:54.223 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 05:59:54 GMT+0800 (CST) 
+2022-12-09 13:59:54.223 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 05:59:54 GMT+0800 (CST) 
+2022-12-09 13:59:54.225 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 05:59:54 GMT+0800 (CST) 
+2022-12-09 13:59:54.228 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 13:59:54.229 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 13:59:54.231 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 13:59:54.232 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 13:59:54.234 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 13:59:54.236 | INFO     | __mp_main__:handle_client:217 - Content-Length:2502 
+2022-12-09 13:59:54.239 | INFO     | __mp_main__:handle_client:217 - Content-Length:14352 
+2022-12-09 13:59:54.241 | INFO     | __mp_main__:handle_client:217 - Content-Length:109518 
+2022-12-09 13:59:54.242 | INFO     | __mp_main__:handle_client:217 - Content-Length:57485 
+2022-12-09 13:59:54.244 | INFO     | __mp_main__:handle_client:225 - Content-Length:31822 
+2022-12-09 13:59:54.351 | INFO     | __mp_main__:handle_client:71 - GET /john/js/plugins.js HTTP/1.1
+2022-12-09 13:59:54.354 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 13:59:54.357 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 05:59:54 GMT+0800 (CST) 
+2022-12-09 13:59:54.359 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 13:59:54.361 | INFO     | __mp_main__:handle_client:225 - Content-Length:14626 
+2022-12-09 13:59:54.958 | INFO     | __mp_main__:handle_client:71 - GET /john/js/vendor/modernizr-2.6.2.min.js HTTP/1.1
+2022-12-09 13:59:54.960 | INFO     | __mp_main__:handle_client:71 - GET /john/js/templatemo_custom.js HTTP/1.1
+2022-12-09 13:59:54.966 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 13:59:54.968 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 13:59:54.971 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 05:59:54 GMT+0800 (CST) 
+2022-12-09 13:59:54.972 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 05:59:54 GMT+0800 (CST) 
+2022-12-09 13:59:54.975 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 13:59:54.977 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 13:59:54.979 | INFO     | __mp_main__:handle_client:225 - Content-Length:15420 
+2022-12-09 13:59:54.980 | INFO     | __mp_main__:handle_client:225 - Content-Length:2200 
+2022-12-09 13:59:55.058 | INFO     | __mp_main__:handle_client:71 - GET /john/images/slide1.png HTTP/1.1
+2022-12-09 13:59:55.062 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 13:59:55.065 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 05:59:55 GMT+0800 (CST) 
+2022-12-09 13:59:55.070 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 13:59:55.074 | INFO     | __mp_main__:handle_client:177 - Content-Length:90485 
+2022-12-09 13:59:55.750 | INFO     | __mp_main__:handle_client:71 - GET /john/apple.mp3 HTTP/1.1
+2022-12-09 13:59:55.758 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 13:59:55.762 | INFO     | __mp_main__:handle_client:189 - Date:Fri, 09 Dec 2022 05:59:55 GMT+0800 (CST) 
+2022-12-09 13:59:55.765 | INFO     | __mp_main__:handle_client:191 - Content-Type: MP3 
+2022-12-09 13:59:55.768 | INFO     | __mp_main__:handle_client:193 - Content-Length:2668713 
+2022-12-09 13:59:55.812 | INFO     | __mp_main__:handle_client:71 - GET /john/images/slider-bg.png HTTP/1.1
+2022-12-09 13:59:55.843 | INFO     | __mp_main__:handle_client:71 - GET /john/images/service-bg.png HTTP/1.1
+2022-12-09 13:59:55.855 | INFO     | __mp_main__:handle_client:71 - GET /john/images/uic.png HTTP/1.1
+2022-12-09 13:59:55.863 | INFO     | __mp_main__:handle_client:71 - GET /john/twistzz.jpg HTTP/1.1
+2022-12-09 13:59:55.865 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 13:59:55.873 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 13:59:55.879 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 13:59:55.882 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 05:59:55 GMT+0800 (CST) 
+2022-12-09 13:59:55.885 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 13:59:55.885 | INFO     | __mp_main__:handle_client:71 - GET /john/123.jpg HTTP/1.1
+2022-12-09 13:59:55.888 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 05:59:55 GMT+0800 (CST) 
+2022-12-09 13:59:55.890 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 05:59:55 GMT+0800 (CST) 
+2022-12-09 13:59:55.892 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 13:59:55.893 | INFO     | __mp_main__:handle_client:165 - Date:Fri, 09 Dec 2022 05:59:55 GMT+0800 (CST) 
+2022-12-09 13:59:55.897 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 13:59:55.898 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 13:59:55.900 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 13:59:55.902 | INFO     | __mp_main__:handle_client:177 - Content-Length:358447 
+2022-12-09 13:59:55.903 | INFO     | __mp_main__:handle_client:167 - Content-Type: image/jpg 
+2022-12-09 13:59:55.905 | INFO     | __mp_main__:handle_client:177 - Content-Length:159770 
+2022-12-09 13:59:55.906 | INFO     | __mp_main__:handle_client:165 - Date:Fri, 09 Dec 2022 05:59:55 GMT+0800 (CST) 
+2022-12-09 13:59:55.909 | INFO     | __mp_main__:handle_client:177 - Content-Length:18800 
+2022-12-09 13:59:55.913 | INFO     | __mp_main__:handle_client:169 - Content-Length:32637 
+2022-12-09 13:59:55.918 | INFO     | __mp_main__:handle_client:167 - Content-Type: image/jpg 
+2022-12-09 13:59:55.929 | INFO     | __mp_main__:handle_client:169 - Content-Length:2799166 
+2022-12-09 13:59:56.543 | INFO     | __mp_main__:handle_client:71 - GET /john/images/video-bg.png HTTP/1.1
+2022-12-09 13:59:56.551 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 13:59:56.555 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 05:59:56 GMT+0800 (CST) 
+2022-12-09 13:59:56.558 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 13:59:56.562 | INFO     | __mp_main__:handle_client:177 - Content-Length:277282 
+2022-12-09 13:59:56.681 | INFO     | __mp_main__:handle_client:71 - GET /john/images/product-1.png HTTP/1.1
+2022-12-09 13:59:56.687 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 13:59:56.689 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 05:59:56 GMT+0800 (CST) 
+2022-12-09 13:59:56.693 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 13:59:56.722 | INFO     | __mp_main__:handle_client:177 - Content-Length:37845 
+2022-12-09 13:59:56.726 | INFO     | __mp_main__:handle_client:71 - GET /john/video.mp4 HTTP/1.1
+2022-12-09 13:59:56.729 | INFO     | __mp_main__:handle_client:71 - GET /john/apple.mp3 HTTP/1.1
+2022-12-09 13:59:56.732 | INFO     | __mp_main__:handle_client:71 - GET /john/images/products-bg.png HTTP/1.1
+2022-12-09 13:59:56.738 | INFO     | __mp_main__:handle_client:71 - GET /john/Patrick.gif HTTP/1.1
+2022-12-09 13:59:56.749 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 13:59:56.753 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 13:59:56.756 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 13:59:56.758 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 13:59:56.762 | INFO     | __mp_main__:handle_client:189 - Date:Fri, 09 Dec 2022 05:59:56 GMT+0800 (CST) 
+2022-12-09 13:59:56.764 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 05:59:56 GMT+0800 (CST) 
+2022-12-09 13:59:56.765 | INFO     | __mp_main__:handle_client:197 - Date:Fri, 09 Dec 2022 05:59:56 GMT+0800 (CST) 
+2022-12-09 13:59:56.766 | INFO     | __mp_main__:handle_client:181 - Date:Fri, 09 Dec 2022 05:59:56 GMT+0800 (CST) 
+2022-12-09 13:59:56.770 | INFO     | __mp_main__:handle_client:191 - Content-Type: MP3 
+2022-12-09 13:59:56.772 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 13:59:56.773 | INFO     | __mp_main__:handle_client:199 - Content-Type: MP4 
+2022-12-09 13:59:56.774 | INFO     | __mp_main__:handle_client:183 - Content-Type: PNG
+2022-12-09 13:59:56.778 | INFO     | __mp_main__:handle_client:193 - Content-Length:2668713 
+2022-12-09 13:59:56.779 | INFO     | __mp_main__:handle_client:177 - Content-Length:238403 
+2022-12-09 13:59:56.780 | INFO     | __mp_main__:handle_client:201 - Content-Length:22766338 
+2022-12-09 13:59:56.781 | INFO     | __mp_main__:handle_client:185 - Content-Length:38614 
+2022-12-09 13:59:57.264 | INFO     | __mp_main__:handle_client:71 - GET /john/images/contact-bg.png HTTP/1.1
+2022-12-09 13:59:57.271 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 13:59:57.273 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 05:59:57 GMT+0800 (CST) 
+2022-12-09 13:59:57.277 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 13:59:57.280 | INFO     | __mp_main__:handle_client:177 - Content-Length:830451 
+2022-12-09 14:01:20.967 | INFO     | __mp_main__:handle_client:71 - GET /john/index1.html HTTP/1.1
+2022-12-09 14:01:20.974 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:01:20.978 | INFO     | __mp_main__:handle_client:157 - Date:Fri, 09 Dec 2022 06:01:20 GMT+0800 (CST) 
+2022-12-09 14:01:20.981 | INFO     | __mp_main__:handle_client:159 - Content-Type: TEXT/HTML 
+2022-12-09 14:01:20.984 | INFO     | __mp_main__:handle_client:161 - Content-Length:11816 
+2022-12-09 14:01:21.271 | INFO     | __mp_main__:handle_client:71 - GET /john/js/vendor/jquery-1.10.1.min.js HTTP/1.1
+2022-12-09 14:01:21.275 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:01:21.278 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 06:01:21 GMT+0800 (CST) 
+2022-12-09 14:01:21.280 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 14:01:21.282 | INFO     | __mp_main__:handle_client:225 - Content-Length:93074 
+2022-12-09 14:01:21.821 | INFO     | __mp_main__:handle_client:71 - GET /john/css/templatemo_style.css HTTP/1.1
+2022-12-09 14:01:21.826 | INFO     | __mp_main__:handle_client:71 - GET /john/css/bootstrap.min.css HTTP/1.1
+2022-12-09 14:01:21.825 | INFO     | __mp_main__:handle_client:71 - GET /john/css/normalize.min.css HTTP/1.1
+2022-12-09 14:01:21.827 | INFO     | __mp_main__:handle_client:71 - GET /john/css/animate.min.css HTTP/1.1
+2022-12-09 14:01:21.830 | INFO     | __mp_main__:handle_client:71 - GET /john/js/bootstrap.min.js HTTP/1.1
+2022-12-09 14:01:21.842 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:01:21.849 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:01:21.852 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:01:21.848 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:01:21.856 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:01:21.863 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 06:01:21 GMT+0800 (CST) 
+2022-12-09 14:01:21.865 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 06:01:21 GMT+0800 (CST) 
+2022-12-09 14:01:21.865 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 06:01:21 GMT+0800 (CST) 
+2022-12-09 14:01:21.866 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 06:01:21 GMT+0800 (CST) 
+2022-12-09 14:01:21.868 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 06:01:21 GMT+0800 (CST) 
+2022-12-09 14:01:21.874 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 14:01:21.875 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 14:01:21.875 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 14:01:21.876 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 14:01:21.877 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 14:01:21.883 | INFO     | __mp_main__:handle_client:217 - Content-Length:14352 
+2022-12-09 14:01:21.885 | INFO     | __mp_main__:handle_client:217 - Content-Length:109518 
+2022-12-09 14:01:21.884 | INFO     | __mp_main__:handle_client:217 - Content-Length:2502 
+2022-12-09 14:01:21.884 | INFO     | __mp_main__:handle_client:217 - Content-Length:57485 
+2022-12-09 14:01:21.886 | INFO     | __mp_main__:handle_client:225 - Content-Length:31822 
+2022-12-09 14:01:21.997 | INFO     | __mp_main__:handle_client:71 - GET /john/js/plugins.js HTTP/1.1
+2022-12-09 14:01:22.000 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:01:22.002 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 06:01:22 GMT+0800 (CST) 
+2022-12-09 14:01:22.005 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 14:01:22.007 | INFO     | __mp_main__:handle_client:225 - Content-Length:14626 
+2022-12-09 14:01:22.809 | INFO     | __mp_main__:handle_client:71 - GET /john/js/templatemo_custom.js HTTP/1.1
+2022-12-09 14:01:22.834 | INFO     | __mp_main__:handle_client:71 - GET /john/js/vendor/modernizr-2.6.2.min.js HTTP/1.1
+2022-12-09 14:01:22.861 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:01:22.896 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:01:22.909 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 06:01:22 GMT+0800 (CST) 
+2022-12-09 14:01:22.912 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 06:01:22 GMT+0800 (CST) 
+2022-12-09 14:01:22.917 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 14:01:22.920 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 14:01:22.927 | INFO     | __mp_main__:handle_client:225 - Content-Length:2200 
+2022-12-09 14:01:22.932 | INFO     | __mp_main__:handle_client:225 - Content-Length:15420 
+2022-12-09 14:01:23.053 | INFO     | __mp_main__:handle_client:71 - GET /john/images/slide1.png HTTP/1.1
+2022-12-09 14:01:23.063 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:01:23.069 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 06:01:23 GMT+0800 (CST) 
+2022-12-09 14:01:23.073 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 14:01:23.077 | INFO     | __mp_main__:handle_client:177 - Content-Length:90485 
+2022-12-09 14:01:24.025 | INFO     | __mp_main__:handle_client:71 - GET /john/123.jpg HTTP/1.1
+2022-12-09 14:01:24.051 | INFO     | __mp_main__:handle_client:71 - GET /john/twistzz.jpg HTTP/1.1
+2022-12-09 14:01:24.026 | INFO     | __mp_main__:handle_client:71 - GET /john/apple.mp3 HTTP/1.1
+2022-12-09 14:01:24.081 | INFO     | __mp_main__:handle_client:71 - GET /john/images/uic.png HTTP/1.1
+2022-12-09 14:01:24.079 | INFO     | __mp_main__:handle_client:71 - GET /john/images/slider-bg.png HTTP/1.1
+2022-12-09 14:01:24.097 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:01:24.118 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:01:24.106 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:01:24.114 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:01:24.126 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:01:24.138 | INFO     | __mp_main__:handle_client:165 - Date:Fri, 09 Dec 2022 06:01:24 GMT+0800 (CST) 
+2022-12-09 14:01:24.149 | INFO     | __mp_main__:handle_client:165 - Date:Fri, 09 Dec 2022 06:01:24 GMT+0800 (CST) 
+2022-12-09 14:01:24.154 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 06:01:24 GMT+0800 (CST) 
+2022-12-09 14:01:24.152 | INFO     | __mp_main__:handle_client:189 - Date:Fri, 09 Dec 2022 06:01:24 GMT+0800 (CST) 
+2022-12-09 14:01:24.158 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 06:01:24 GMT+0800 (CST) 
+2022-12-09 14:01:24.163 | INFO     | __mp_main__:handle_client:167 - Content-Type: image/jpg 
+2022-12-09 14:01:24.169 | INFO     | __mp_main__:handle_client:167 - Content-Type: image/jpg 
+2022-12-09 14:01:24.170 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 14:01:24.174 | INFO     | __mp_main__:handle_client:191 - Content-Type: MP3 
+2022-12-09 14:01:24.175 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 14:01:24.177 | INFO     | __mp_main__:handle_client:169 - Content-Length:2799166 
+2022-12-09 14:01:24.182 | INFO     | __mp_main__:handle_client:169 - Content-Length:32637 
+2022-12-09 14:01:24.186 | INFO     | __mp_main__:handle_client:193 - Content-Length:2668713 
+2022-12-09 14:01:24.187 | INFO     | __mp_main__:handle_client:177 - Content-Length:358447 
+2022-12-09 14:01:24.184 | INFO     | __mp_main__:handle_client:177 - Content-Length:18800 
+2022-12-09 14:01:24.287 | INFO     | __mp_main__:handle_client:71 - GET /john/Patrick.gif HTTP/1.1
+2022-12-09 14:01:24.295 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:01:24.301 | INFO     | __mp_main__:handle_client:181 - Date:Fri, 09 Dec 2022 06:01:24 GMT+0800 (CST) 
+2022-12-09 14:01:24.306 | INFO     | __mp_main__:handle_client:183 - Content-Type: PNG
+2022-12-09 14:01:24.309 | INFO     | __mp_main__:handle_client:185 - Content-Length:38614 
+2022-12-09 14:01:24.953 | INFO     | __mp_main__:handle_client:71 - GET /john/images/service-bg.png HTTP/1.1
+2022-12-09 14:01:24.959 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:01:24.964 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 06:01:24 GMT+0800 (CST) 
+2022-12-09 14:01:24.967 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 14:01:24.971 | INFO     | __mp_main__:handle_client:177 - Content-Length:159770 
+2022-12-09 14:01:25.036 | INFO     | __mp_main__:handle_client:71 - GET /john/apple.mp3 HTTP/1.1
+2022-12-09 14:01:25.056 | INFO     | __mp_main__:handle_client:71 - GET /john/images/product-1.png HTTP/1.1
+2022-12-09 14:01:25.064 | INFO     | __mp_main__:handle_client:71 - GET /john/images/video-bg.png HTTP/1.1
+2022-12-09 14:01:25.071 | INFO     | __mp_main__:handle_client:71 - GET /john/images/contact-bg.png HTTP/1.1
+2022-12-09 14:01:25.073 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:01:25.085 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:01:25.091 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:01:25.095 | INFO     | __mp_main__:handle_client:189 - Date:Fri, 09 Dec 2022 06:01:25 GMT+0800 (CST) 
+2022-12-09 14:01:25.098 | INFO     | __mp_main__:handle_client:71 - GET /john/video.mp4 HTTP/1.1
+2022-12-09 14:01:25.100 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:01:25.105 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 06:01:25 GMT+0800 (CST) 
+2022-12-09 14:01:25.106 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 06:01:25 GMT+0800 (CST) 
+2022-12-09 14:01:25.108 | INFO     | __mp_main__:handle_client:191 - Content-Type: MP3 
+2022-12-09 14:01:25.113 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 06:01:25 GMT+0800 (CST) 
+2022-12-09 14:01:25.120 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 14:01:25.122 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 14:01:25.126 | INFO     | __mp_main__:handle_client:193 - Content-Length:2668713 
+2022-12-09 14:01:25.126 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:01:25.127 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 14:01:25.133 | INFO     | __mp_main__:handle_client:177 - Content-Length:277282 
+2022-12-09 14:01:25.132 | INFO     | __mp_main__:handle_client:177 - Content-Length:37845 
+2022-12-09 14:01:25.139 | INFO     | __mp_main__:handle_client:177 - Content-Length:830451 
+2022-12-09 14:01:25.137 | INFO     | __mp_main__:handle_client:197 - Date:Fri, 09 Dec 2022 06:01:25 GMT+0800 (CST) 
+2022-12-09 14:01:25.166 | INFO     | __mp_main__:handle_client:199 - Content-Type: MP4 
+2022-12-09 14:01:25.183 | INFO     | __mp_main__:handle_client:201 - Content-Length:22766338 
+2022-12-09 14:01:25.634 | INFO     | __mp_main__:handle_client:71 - GET /john/images/products-bg.png HTTP/1.1
+2022-12-09 14:01:25.639 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:01:25.641 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 06:01:25 GMT+0800 (CST) 
+2022-12-09 14:01:25.643 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 14:01:25.646 | INFO     | __mp_main__:handle_client:177 - Content-Length:238403 
+2022-12-09 14:01:25.964 | INFO     | __mp_main__:handle_client:71 - GET /john/index.html HTTP/1.1
+2022-12-09 14:01:25.968 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:01:25.971 | INFO     | __mp_main__:handle_client:157 - Date:Fri, 09 Dec 2022 06:01:25 GMT+0800 (CST) 
+2022-12-09 14:01:25.973 | INFO     | __mp_main__:handle_client:159 - Content-Type: TEXT/HTML 
+2022-12-09 14:01:25.975 | INFO     | __mp_main__:handle_client:161 - Content-Length:2186 
+2022-12-09 14:01:26.809 | INFO     | __mp_main__:handle_client:71 - GET /john/css/bootstrap.min.css HTTP/1.1
+2022-12-09 14:01:26.824 | INFO     | __mp_main__:handle_client:71 - GET /john/css/animate.min.css HTTP/1.1
+2022-12-09 14:01:26.864 | INFO     | __mp_main__:handle_client:71 - GET /john/css/normalize.min.css HTTP/1.1
+2022-12-09 14:01:26.866 | INFO     | __mp_main__:handle_client:71 - GET /john/js/vendor/modernizr-2.6.2.min.js HTTP/1.1
+2022-12-09 14:01:26.867 | INFO     | __mp_main__:handle_client:71 - GET /john/css/templatemo_style.css HTTP/1.1
+2022-12-09 14:01:26.868 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:01:26.872 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:01:26.883 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 06:01:26 GMT+0800 (CST) 
+2022-12-09 14:01:26.884 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:01:26.886 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:01:26.888 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:01:26.890 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 06:01:26 GMT+0800 (CST) 
+2022-12-09 14:01:26.899 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 06:01:26 GMT+0800 (CST) 
+2022-12-09 14:01:26.897 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 14:01:26.898 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 06:01:26 GMT+0800 (CST) 
+2022-12-09 14:01:26.901 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 14:01:26.899 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 06:01:26 GMT+0800 (CST) 
+2022-12-09 14:01:26.915 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 14:01:26.911 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 14:01:26.912 | INFO     | __mp_main__:handle_client:217 - Content-Length:109518 
+2022-12-09 14:01:26.918 | INFO     | __mp_main__:handle_client:217 - Content-Length:57485 
+2022-12-09 14:01:26.920 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 14:01:26.934 | INFO     | __mp_main__:handle_client:217 - Content-Length:2502 
+2022-12-09 14:01:26.950 | INFO     | __mp_main__:handle_client:225 - Content-Length:15420 
+2022-12-09 14:01:26.940 | INFO     | __mp_main__:handle_client:217 - Content-Length:14352 
+2022-12-09 14:01:27.108 | INFO     | __mp_main__:handle_client:71 - GET /john/images/service-bg.png HTTP/1.1
+2022-12-09 14:01:27.115 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:01:27.118 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 06:01:27 GMT+0800 (CST) 
+2022-12-09 14:01:27.121 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 14:01:27.124 | INFO     | __mp_main__:handle_client:177 - Content-Length:159770 
+2022-12-09 14:21:25.173 | INFO     | __mp_main__:handle_client:71 - GET /john/index1.html HTTP/1.1
+2022-12-09 14:21:25.177 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:21:25.178 | INFO     | __mp_main__:handle_client:157 - Date:Fri, 09 Dec 2022 06:21:25 GMT+0800 (CST) 
+2022-12-09 14:21:25.180 | INFO     | __mp_main__:handle_client:159 - Content-Type: TEXT/HTML 
+2022-12-09 14:21:25.182 | INFO     | __mp_main__:handle_client:161 - Content-Length:12024 
+2022-12-09 14:21:25.494 | INFO     | __mp_main__:handle_client:71 - GET /john/js/bootstrap.min.js HTTP/1.1
+2022-12-09 14:21:25.497 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:21:25.499 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 06:21:25 GMT+0800 (CST) 
+2022-12-09 14:21:25.501 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 14:21:25.502 | INFO     | __mp_main__:handle_client:225 - Content-Length:31822 
+2022-12-09 14:21:26.081 | INFO     | __mp_main__:handle_client:71 - GET /john/css/animate.min.css HTTP/1.1
+2022-12-09 14:21:26.085 | INFO     | __mp_main__:handle_client:71 - GET /john/css/normalize.min.css HTTP/1.1
+2022-12-09 14:21:26.086 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:21:26.091 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:21:26.092 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 06:21:26 GMT+0800 (CST) 
+2022-12-09 14:21:26.096 | INFO     | __mp_main__:handle_client:71 - GET /john/css/bootstrap.min.css HTTP/1.1
+2022-12-09 14:21:26.098 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 06:21:26 GMT+0800 (CST) 
+2022-12-09 14:21:26.099 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 14:21:26.101 | INFO     | __mp_main__:handle_client:71 - GET /john/js/plugins.js HTTP/1.1
+2022-12-09 14:21:26.102 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:21:26.102 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 14:21:26.102 | INFO     | __mp_main__:handle_client:217 - Content-Length:57485 
+2022-12-09 14:21:26.103 | INFO     | __mp_main__:handle_client:71 - GET /john/css/templatemo_style.css HTTP/1.1
+2022-12-09 14:21:26.107 | INFO     | __mp_main__:handle_client:217 - Content-Length:2502 
+2022-12-09 14:21:26.107 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 06:21:26 GMT+0800 (CST) 
+2022-12-09 14:21:26.108 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:21:26.112 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:21:26.114 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 14:21:26.114 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 06:21:26 GMT+0800 (CST) 
+2022-12-09 14:21:26.116 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 06:21:26 GMT+0800 (CST) 
+2022-12-09 14:21:26.117 | INFO     | __mp_main__:handle_client:217 - Content-Length:109518 
+2022-12-09 14:21:26.118 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 14:21:26.119 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 14:21:26.143 | INFO     | __mp_main__:handle_client:225 - Content-Length:14626 
+2022-12-09 14:21:26.152 | INFO     | __mp_main__:handle_client:217 - Content-Length:14352 
+2022-12-09 14:21:26.288 | INFO     | __mp_main__:handle_client:71 - GET /john/js/templatemo_custom.js HTTP/1.1
+2022-12-09 14:21:26.291 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:21:26.294 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 06:21:26 GMT+0800 (CST) 
+2022-12-09 14:21:26.295 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 14:21:26.298 | INFO     | __mp_main__:handle_client:225 - Content-Length:2200 
+2022-12-09 14:21:26.978 | INFO     | __mp_main__:handle_client:71 - GET /john/js/vendor/modernizr-2.6.2.min.js HTTP/1.1
+2022-12-09 14:21:26.987 | INFO     | __mp_main__:handle_client:71 - GET /john/js/vendor/jquery-1.10.1.min.js HTTP/1.1
+2022-12-09 14:21:26.994 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:21:26.996 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:21:26.998 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 06:21:26 GMT+0800 (CST) 
+2022-12-09 14:21:27.000 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 06:21:27 GMT+0800 (CST) 
+2022-12-09 14:21:27.002 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 14:21:27.004 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 14:21:27.006 | INFO     | __mp_main__:handle_client:225 - Content-Length:15420 
+2022-12-09 14:21:27.010 | INFO     | __mp_main__:handle_client:225 - Content-Length:93074 
+2022-12-09 14:21:27.050 | INFO     | __mp_main__:handle_client:71 - GET /john/images/uic.png HTTP/1.1
+2022-12-09 14:21:27.054 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:21:27.057 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 06:21:27 GMT+0800 (CST) 
+2022-12-09 14:21:27.059 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 14:21:27.060 | INFO     | __mp_main__:handle_client:177 - Content-Length:18800 
+2022-12-09 14:21:27.098 | INFO     | __mp_main__:handle_client:71 - GET /john/images/slide1.png HTTP/1.1
+2022-12-09 14:21:27.102 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:21:27.104 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 06:21:27 GMT+0800 (CST) 
+2022-12-09 14:21:27.106 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 14:21:27.108 | INFO     | __mp_main__:handle_client:177 - Content-Length:90485 
+2022-12-09 14:21:27.130 | INFO     | __mp_main__:handle_client:71 - GET /john/twistzz.jpg HTTP/1.1
+2022-12-09 14:21:27.136 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:21:27.138 | INFO     | __mp_main__:handle_client:165 - Date:Fri, 09 Dec 2022 06:21:27 GMT+0800 (CST) 
+2022-12-09 14:21:27.140 | INFO     | __mp_main__:handle_client:167 - Content-Type: image/jpg 
+2022-12-09 14:21:27.142 | INFO     | __mp_main__:handle_client:169 - Content-Length:32637 
+2022-12-09 14:21:27.179 | INFO     | __mp_main__:handle_client:71 - GET /john/123.jpg HTTP/1.1
+2022-12-09 14:21:27.188 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:21:27.190 | INFO     | __mp_main__:handle_client:165 - Date:Fri, 09 Dec 2022 06:21:27 GMT+0800 (CST) 
+2022-12-09 14:21:27.192 | INFO     | __mp_main__:handle_client:167 - Content-Type: image/jpg 
+2022-12-09 14:21:27.197 | INFO     | __mp_main__:handle_client:169 - Content-Length:2799166 
+2022-12-09 14:21:28.154 | INFO     | __mp_main__:handle_client:71 - GET /john/images/products-bg.png HTTP/1.1
+2022-12-09 14:21:28.157 | INFO     | __mp_main__:handle_client:71 - GET /john/images/product-1.png HTTP/1.1
+2022-12-09 14:21:28.162 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:21:28.170 | INFO     | __mp_main__:handle_client:71 - GET /john/images/service-bg.png HTTP/1.1
+2022-12-09 14:21:28.174 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:21:28.172 | INFO     | __mp_main__:handle_client:71 - GET /john/Patrick.gif HTTP/1.1
+2022-12-09 14:21:28.175 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 06:21:28 GMT+0800 (CST) 
+2022-12-09 14:21:28.186 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 14:21:28.187 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:21:28.182 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 06:21:28 GMT+0800 (CST) 
+2022-12-09 14:21:28.188 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:21:28.192 | INFO     | __mp_main__:handle_client:177 - Content-Length:238403 
+2022-12-09 14:21:28.193 | INFO     | __mp_main__:handle_client:181 - Date:Fri, 09 Dec 2022 06:21:28 GMT+0800 (CST) 
+2022-12-09 14:21:28.193 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 14:21:28.192 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 06:21:28 GMT+0800 (CST) 
+2022-12-09 14:21:28.197 | INFO     | __mp_main__:handle_client:71 - GET /john/images/video-bg.png HTTP/1.1
+2022-12-09 14:21:28.198 | INFO     | __mp_main__:handle_client:177 - Content-Length:37845 
+2022-12-09 14:21:28.198 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 14:21:28.198 | INFO     | __mp_main__:handle_client:183 - Content-Type: PNG
+2022-12-09 14:21:28.213 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:21:28.229 | INFO     | __mp_main__:handle_client:177 - Content-Length:159770 
+2022-12-09 14:21:28.234 | INFO     | __mp_main__:handle_client:185 - Content-Length:38614 
+2022-12-09 14:21:28.248 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 06:21:28 GMT+0800 (CST) 
+2022-12-09 14:21:28.273 | INFO     | __mp_main__:handle_client:71 - GET /john/apple.mp3 HTTP/1.1
+2022-12-09 14:21:28.282 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 14:21:28.288 | INFO     | __mp_main__:handle_client:177 - Content-Length:277282 
+2022-12-09 14:21:28.290 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:21:28.294 | INFO     | __mp_main__:handle_client:189 - Date:Fri, 09 Dec 2022 06:21:28 GMT+0800 (CST) 
+2022-12-09 14:21:28.296 | INFO     | __mp_main__:handle_client:191 - Content-Type: MP3 
+2022-12-09 14:21:28.301 | INFO     | __mp_main__:handle_client:193 - Content-Length:2668713 
+2022-12-09 14:21:29.134 | INFO     | __mp_main__:handle_client:71 - GET /john/images/contact-bg.png HTTP/1.1
+2022-12-09 14:21:29.139 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:21:29.142 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 06:21:29 GMT+0800 (CST) 
+2022-12-09 14:21:29.144 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 14:21:29.145 | INFO     | __mp_main__:handle_client:177 - Content-Length:830451 
+2022-12-09 14:21:29.195 | INFO     | __mp_main__:handle_client:71 - GET /john/happy.mp4 HTTP/1.1
+2022-12-09 14:21:29.207 | INFO     | __mp_main__:handle_client:71 - GET /john/apple.mp3 HTTP/1.1
+2022-12-09 14:21:29.211 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:21:29.219 | INFO     | __mp_main__:handle_client:189 - Date:Fri, 09 Dec 2022 06:21:29 GMT+0800 (CST) 
+2022-12-09 14:21:29.221 | INFO     | __mp_main__:handle_client:191 - Content-Type: MP3 
+2022-12-09 14:21:29.223 | INFO     | __mp_main__:handle_client:193 - Content-Length:2668713 
+2022-12-09 14:21:29.228 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:21:29.231 | INFO     | __mp_main__:handle_client:197 - Date:Fri, 09 Dec 2022 06:21:29 GMT+0800 (CST) 
+2022-12-09 14:21:29.233 | INFO     | __mp_main__:handle_client:199 - Content-Type: MP4 
+2022-12-09 14:21:29.236 | INFO     | __mp_main__:handle_client:201 - Content-Length:32217766 
+2022-12-09 14:21:29.312 | INFO     | __mp_main__:handle_client:71 - GET /favicon.ico HTTP/1.1
+2022-12-09 14:21:29.316 | INFO     | __mp_main__:handle_client:131 - HTTP/1.1 404 not found 
+2022-12-09 14:24:38.005 | INFO     | __mp_main__:handle_client:71 - GET /john/index1.html HTTP/1.1
+2022-12-09 14:24:38.008 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:24:38.010 | INFO     | __mp_main__:handle_client:157 - Date:Fri, 09 Dec 2022 06:24:38 GMT+0800 (CST) 
+2022-12-09 14:24:38.011 | INFO     | __mp_main__:handle_client:159 - Content-Type: TEXT/HTML 
+2022-12-09 14:24:38.013 | INFO     | __mp_main__:handle_client:161 - Content-Length:12024 
+2022-12-09 14:24:38.231 | INFO     | __mp_main__:handle_client:71 - GET /john/js/vendor/jquery-1.10.1.min.js HTTP/1.1
+2022-12-09 14:24:38.233 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:24:38.235 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 06:24:38 GMT+0800 (CST) 
+2022-12-09 14:24:38.236 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 14:24:38.237 | INFO     | __mp_main__:handle_client:225 - Content-Length:93074 
+2022-12-09 14:24:38.800 | INFO     | __mp_main__:handle_client:71 - GET /john/css/normalize.min.css HTTP/1.1
+2022-12-09 14:24:38.805 | INFO     | __mp_main__:handle_client:71 - GET /john/css/bootstrap.min.css HTTP/1.1
+2022-12-09 14:24:38.806 | INFO     | __mp_main__:handle_client:71 - GET /john/css/animate.min.css HTTP/1.1
+2022-12-09 14:24:38.815 | INFO     | __mp_main__:handle_client:71 - GET /john/css/templatemo_style.css HTTP/1.1
+2022-12-09 14:24:38.817 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:24:38.817 | INFO     | __mp_main__:handle_client:71 - GET /john/js/bootstrap.min.js HTTP/1.1
+2022-12-09 14:24:38.818 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:24:38.819 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:24:38.821 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 06:24:38 GMT+0800 (CST) 
+2022-12-09 14:24:38.823 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:24:38.823 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:24:38.824 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 06:24:38 GMT+0800 (CST) 
+2022-12-09 14:24:38.825 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 06:24:38 GMT+0800 (CST) 
+2022-12-09 14:24:38.826 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 14:24:38.827 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 06:24:38 GMT+0800 (CST) 
+2022-12-09 14:24:38.828 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 06:24:38 GMT+0800 (CST) 
+2022-12-09 14:24:38.829 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 14:24:38.835 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 14:24:38.837 | INFO     | __mp_main__:handle_client:217 - Content-Length:2502 
+2022-12-09 14:24:38.838 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 14:24:38.839 | INFO     | __mp_main__:handle_client:217 - Content-Length:109518 
+2022-12-09 14:24:38.838 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 14:24:38.840 | INFO     | __mp_main__:handle_client:217 - Content-Length:57485 
+2022-12-09 14:24:38.842 | INFO     | __mp_main__:handle_client:225 - Content-Length:31822 
+2022-12-09 14:24:38.848 | INFO     | __mp_main__:handle_client:217 - Content-Length:14352 
+2022-12-09 14:24:38.974 | INFO     | __mp_main__:handle_client:71 - GET /john/js/plugins.js HTTP/1.1
+2022-12-09 14:24:38.976 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:24:38.977 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 06:24:38 GMT+0800 (CST) 
+2022-12-09 14:24:38.979 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 14:24:38.980 | INFO     | __mp_main__:handle_client:225 - Content-Length:14626 
+2022-12-09 14:24:39.709 | INFO     | __mp_main__:handle_client:71 - GET /john/js/templatemo_custom.js HTTP/1.1
+2022-12-09 14:24:39.712 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:24:39.717 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 06:24:39 GMT+0800 (CST) 
+2022-12-09 14:24:39.719 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 14:24:39.721 | INFO     | __mp_main__:handle_client:225 - Content-Length:2200 
+2022-12-09 14:24:39.781 | INFO     | __mp_main__:handle_client:71 - GET /john/images/uic.png HTTP/1.1
+2022-12-09 14:24:39.791 | INFO     | __mp_main__:handle_client:71 - GET /john/js/vendor/modernizr-2.6.2.min.js HTTP/1.1
+2022-12-09 14:24:39.791 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:24:39.798 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:24:39.798 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 06:24:39 GMT+0800 (CST) 
+2022-12-09 14:24:39.800 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 06:24:39 GMT+0800 (CST) 
+2022-12-09 14:24:39.801 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 14:24:39.803 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 14:24:39.804 | INFO     | __mp_main__:handle_client:177 - Content-Length:18800 
+2022-12-09 14:24:39.805 | INFO     | __mp_main__:handle_client:225 - Content-Length:15420 
+2022-12-09 14:24:39.927 | INFO     | __mp_main__:handle_client:71 - GET /john/images/slide1.png HTTP/1.1
+2022-12-09 14:24:39.930 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:24:39.932 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 06:24:39 GMT+0800 (CST) 
+2022-12-09 14:24:39.934 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 14:24:39.939 | INFO     | __mp_main__:handle_client:177 - Content-Length:90485 
+2022-12-09 14:24:40.839 | INFO     | __mp_main__:handle_client:71 - GET /john/apple.mp3 HTTP/1.1
+2022-12-09 14:24:40.840 | INFO     | __mp_main__:handle_client:71 - GET /john/123.jpg HTTP/1.1
+2022-12-09 14:24:40.828 | INFO     | __mp_main__:handle_client:71 - GET /john/images/contact-bg.png HTTP/1.1
+2022-12-09 14:24:40.845 | INFO     | __mp_main__:handle_client:71 - GET /john/images/service-bg.png HTTP/1.1
+2022-12-09 14:24:40.887 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:24:40.889 | INFO     | __mp_main__:handle_client:71 - GET /john/images/video-bg.png HTTP/1.1
+2022-12-09 14:24:40.891 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:24:40.887 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:24:40.891 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:24:40.893 | INFO     | __mp_main__:handle_client:189 - Date:Fri, 09 Dec 2022 06:24:40 GMT+0800 (CST) 
+2022-12-09 14:24:40.894 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 06:24:40 GMT+0800 (CST) 
+2022-12-09 14:24:40.896 | INFO     | __mp_main__:handle_client:165 - Date:Fri, 09 Dec 2022 06:24:40 GMT+0800 (CST) 
+2022-12-09 14:24:40.909 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:24:40.910 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 06:24:40 GMT+0800 (CST) 
+2022-12-09 14:24:40.917 | INFO     | __mp_main__:handle_client:191 - Content-Type: MP3 
+2022-12-09 14:24:40.919 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 14:24:40.921 | INFO     | __mp_main__:handle_client:167 - Content-Type: image/jpg 
+2022-12-09 14:24:40.921 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 06:24:40 GMT+0800 (CST) 
+2022-12-09 14:24:40.922 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 14:24:40.923 | INFO     | __mp_main__:handle_client:193 - Content-Length:2668713 
+2022-12-09 14:24:40.925 | INFO     | __mp_main__:handle_client:177 - Content-Length:830451 
+2022-12-09 14:24:40.925 | INFO     | __mp_main__:handle_client:169 - Content-Length:2799166 
+2022-12-09 14:24:40.926 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 14:24:40.926 | INFO     | __mp_main__:handle_client:177 - Content-Length:159770 
+2022-12-09 14:24:41.010 | INFO     | __mp_main__:handle_client:177 - Content-Length:277282 
+2022-12-09 14:24:41.016 | INFO     | __mp_main__:handle_client:71 - GET /john/Patrick.gif HTTP/1.1
+2022-12-09 14:24:41.089 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:24:41.091 | INFO     | __mp_main__:handle_client:181 - Date:Fri, 09 Dec 2022 06:24:41 GMT+0800 (CST) 
+2022-12-09 14:24:41.095 | INFO     | __mp_main__:handle_client:183 - Content-Type: PNG
+2022-12-09 14:24:41.097 | INFO     | __mp_main__:handle_client:185 - Content-Length:38614 
+2022-12-09 14:24:41.794 | INFO     | __mp_main__:handle_client:71 - GET /john/happy.mp4 HTTP/1.1
+2022-12-09 14:24:41.806 | INFO     | __mp_main__:handle_client:71 - GET /john/images/products-bg.png HTTP/1.1
+2022-12-09 14:24:41.810 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:24:41.810 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:24:41.817 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 06:24:41 GMT+0800 (CST) 
+2022-12-09 14:24:41.819 | INFO     | __mp_main__:handle_client:197 - Date:Fri, 09 Dec 2022 06:24:41 GMT+0800 (CST) 
+2022-12-09 14:24:41.821 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 14:24:41.825 | INFO     | __mp_main__:handle_client:199 - Content-Type: MP4 
+2022-12-09 14:24:41.826 | INFO     | __mp_main__:handle_client:177 - Content-Length:238403 
+2022-12-09 14:24:41.827 | INFO     | __mp_main__:handle_client:201 - Content-Length:32217766 
+2022-12-09 14:24:41.915 | INFO     | __mp_main__:handle_client:71 - GET /john/twistzz.jpg HTTP/1.1
+2022-12-09 14:24:41.918 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:24:41.921 | INFO     | __mp_main__:handle_client:165 - Date:Fri, 09 Dec 2022 06:24:41 GMT+0800 (CST) 
+2022-12-09 14:24:41.924 | INFO     | __mp_main__:handle_client:71 - GET /john/images/product-1.png HTTP/1.1
+2022-12-09 14:24:41.928 | INFO     | __mp_main__:handle_client:167 - Content-Type: image/jpg 
+2022-12-09 14:24:41.930 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:24:41.930 | INFO     | __mp_main__:handle_client:169 - Content-Length:32637 
+2022-12-09 14:24:41.932 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 06:24:41 GMT+0800 (CST) 
+2022-12-09 14:24:41.934 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 14:24:41.936 | INFO     | __mp_main__:handle_client:177 - Content-Length:37845 
+2022-12-09 14:24:42.010 | INFO     | __mp_main__:handle_client:71 - GET /john/apple.mp3 HTTP/1.1
+2022-12-09 14:24:42.013 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:24:42.014 | INFO     | __mp_main__:handle_client:189 - Date:Fri, 09 Dec 2022 06:24:42 GMT+0800 (CST) 
+2022-12-09 14:24:42.016 | INFO     | __mp_main__:handle_client:191 - Content-Type: MP3 
+2022-12-09 14:24:42.017 | INFO     | __mp_main__:handle_client:193 - Content-Length:2668713 
+2022-12-09 14:25:23.760 | INFO     | __mp_main__:handle_client:71 - GET /john/index.html HTTP/1.1
+2022-12-09 14:25:23.763 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:25:23.765 | INFO     | __mp_main__:handle_client:157 - Date:Fri, 09 Dec 2022 06:25:23 GMT+0800 (CST) 
+2022-12-09 14:25:23.766 | INFO     | __mp_main__:handle_client:159 - Content-Type: TEXT/HTML 
+2022-12-09 14:25:23.767 | INFO     | __mp_main__:handle_client:161 - Content-Length:2186 
+2022-12-09 14:25:24.055 | INFO     | __mp_main__:handle_client:71 - GET /john/js/vendor/modernizr-2.6.2.min.js HTTP/1.1
+2022-12-09 14:25:24.057 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:25:24.058 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 06:25:24 GMT+0800 (CST) 
+2022-12-09 14:25:24.061 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 14:25:24.062 | INFO     | __mp_main__:handle_client:225 - Content-Length:15420 
+2022-12-09 14:25:24.501 | INFO     | __mp_main__:handle_client:71 - GET /john/css/animate.min.css HTTP/1.1
+2022-12-09 14:25:24.505 | INFO     | __mp_main__:handle_client:71 - GET /john/css/templatemo_style.css HTTP/1.1
+2022-12-09 14:25:24.507 | INFO     | __mp_main__:handle_client:71 - GET /john/css/bootstrap.min.css HTTP/1.1
+2022-12-09 14:25:24.510 | INFO     | __mp_main__:handle_client:71 - GET /john/css/normalize.min.css HTTP/1.1
+2022-12-09 14:25:24.510 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:25:24.511 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:25:24.513 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:25:24.515 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 06:25:24 GMT+0800 (CST) 
+2022-12-09 14:25:24.515 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:25:24.516 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 06:25:24 GMT+0800 (CST) 
+2022-12-09 14:25:24.519 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 06:25:24 GMT+0800 (CST) 
+2022-12-09 14:25:24.520 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 14:25:24.520 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 06:25:24 GMT+0800 (CST) 
+2022-12-09 14:25:24.521 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 14:25:24.522 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 14:25:24.523 | INFO     | __mp_main__:handle_client:217 - Content-Length:57485 
+2022-12-09 14:25:24.523 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 14:25:24.524 | INFO     | __mp_main__:handle_client:217 - Content-Length:14352 
+2022-12-09 14:25:24.525 | INFO     | __mp_main__:handle_client:217 - Content-Length:109518 
+2022-12-09 14:25:24.526 | INFO     | __mp_main__:handle_client:217 - Content-Length:2502 
+2022-12-09 14:25:24.736 | INFO     | __mp_main__:handle_client:71 - GET /john/images/service-bg.png HTTP/1.1
+2022-12-09 14:25:24.738 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:25:24.740 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 06:25:24 GMT+0800 (CST) 
+2022-12-09 14:25:24.741 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 14:25:24.742 | INFO     | __mp_main__:handle_client:177 - Content-Length:159770 
+2022-12-09 14:25:35.454 | INFO     | __mp_main__:handle_client:71 - GET /john/index1.html HTTP/1.1
+2022-12-09 14:25:35.458 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:25:35.459 | INFO     | __mp_main__:handle_client:157 - Date:Fri, 09 Dec 2022 06:25:35 GMT+0800 (CST) 
+2022-12-09 14:25:35.460 | INFO     | __mp_main__:handle_client:159 - Content-Type: TEXT/HTML 
+2022-12-09 14:25:35.461 | INFO     | __mp_main__:handle_client:161 - Content-Length:12024 
+2022-12-09 14:25:35.708 | INFO     | __mp_main__:handle_client:71 - GET /john/js/vendor/jquery-1.10.1.min.js HTTP/1.1
+2022-12-09 14:25:35.712 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:25:35.713 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 06:25:35 GMT+0800 (CST) 
+2022-12-09 14:25:35.714 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 14:25:35.715 | INFO     | __mp_main__:handle_client:225 - Content-Length:93074 
+2022-12-09 14:25:36.188 | INFO     | __mp_main__:handle_client:71 - GET /john/css/templatemo_style.css HTTP/1.1
+2022-12-09 14:25:36.190 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:25:36.197 | INFO     | __mp_main__:handle_client:71 - GET /john/css/animate.min.css HTTP/1.1
+2022-12-09 14:25:36.198 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 06:25:36 GMT+0800 (CST) 
+2022-12-09 14:25:36.202 | INFO     | __mp_main__:handle_client:71 - GET /john/css/bootstrap.min.css HTTP/1.1
+2022-12-09 14:25:36.207 | INFO     | __mp_main__:handle_client:71 - GET /john/css/normalize.min.css HTTP/1.1
+2022-12-09 14:25:36.208 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 14:25:36.208 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:25:36.211 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:25:36.211 | INFO     | __mp_main__:handle_client:71 - GET /john/js/bootstrap.min.js HTTP/1.1
+2022-12-09 14:25:36.213 | INFO     | __mp_main__:handle_client:217 - Content-Length:14352 
+2022-12-09 14:25:36.214 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 06:25:36 GMT+0800 (CST) 
+2022-12-09 14:25:36.214 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:25:36.215 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 06:25:36 GMT+0800 (CST) 
+2022-12-09 14:25:36.218 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:25:36.219 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 14:25:36.220 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 06:25:36 GMT+0800 (CST) 
+2022-12-09 14:25:36.220 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 14:25:36.221 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 06:25:36 GMT+0800 (CST) 
+2022-12-09 14:25:36.222 | INFO     | __mp_main__:handle_client:217 - Content-Length:57485 
+2022-12-09 14:25:36.223 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 14:25:36.223 | INFO     | __mp_main__:handle_client:217 - Content-Length:109518 
+2022-12-09 14:25:36.224 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 14:25:36.225 | INFO     | __mp_main__:handle_client:217 - Content-Length:2502 
+2022-12-09 14:25:36.227 | INFO     | __mp_main__:handle_client:225 - Content-Length:31822 
+2022-12-09 14:25:36.383 | INFO     | __mp_main__:handle_client:71 - GET /john/js/plugins.js HTTP/1.1
+2022-12-09 14:25:36.385 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:25:36.387 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 06:25:36 GMT+0800 (CST) 
+2022-12-09 14:25:36.388 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 14:25:36.394 | INFO     | __mp_main__:handle_client:225 - Content-Length:14626 
+2022-12-09 14:25:36.869 | INFO     | __mp_main__:handle_client:71 - GET /john/js/templatemo_custom.js HTTP/1.1
+2022-12-09 14:25:36.872 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:25:36.876 | INFO     | __mp_main__:handle_client:71 - GET /john/js/vendor/modernizr-2.6.2.min.js HTTP/1.1
+2022-12-09 14:25:36.877 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 06:25:36 GMT+0800 (CST) 
+2022-12-09 14:25:36.879 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:25:36.880 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 14:25:36.883 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 06:25:36 GMT+0800 (CST) 
+2022-12-09 14:25:36.883 | INFO     | __mp_main__:handle_client:225 - Content-Length:2200 
+2022-12-09 14:25:36.884 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 14:25:36.886 | INFO     | __mp_main__:handle_client:225 - Content-Length:15420 
+2022-12-09 14:25:37.040 | INFO     | __mp_main__:handle_client:71 - GET /john/images/slide1.png HTTP/1.1
+2022-12-09 14:25:37.042 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:25:37.043 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 06:25:37 GMT+0800 (CST) 
+2022-12-09 14:25:37.044 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 14:25:37.046 | INFO     | __mp_main__:handle_client:177 - Content-Length:90485 
+2022-12-09 14:25:37.660 | INFO     | __mp_main__:handle_client:71 - GET /john/images/service-bg.png HTTP/1.1
+2022-12-09 14:25:37.662 | INFO     | __mp_main__:handle_client:71 - GET /john/apple.mp3 HTTP/1.1
+2022-12-09 14:25:37.674 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:25:37.681 | INFO     | __mp_main__:handle_client:71 - GET /john/123.jpg HTTP/1.1
+2022-12-09 14:25:37.676 | INFO     | __mp_main__:handle_client:71 - GET /john/images/uic.png HTTP/1.1
+2022-12-09 14:25:37.683 | INFO     | __mp_main__:handle_client:71 - GET /john/twistzz.jpg HTTP/1.1
+2022-12-09 14:25:37.684 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:25:37.685 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 06:25:37 GMT+0800 (CST) 
+2022-12-09 14:25:37.687 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:25:37.689 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:25:37.688 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:25:37.692 | INFO     | __mp_main__:handle_client:189 - Date:Fri, 09 Dec 2022 06:25:37 GMT+0800 (CST) 
+2022-12-09 14:25:37.693 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 14:25:37.695 | INFO     | __mp_main__:handle_client:165 - Date:Fri, 09 Dec 2022 06:25:37 GMT+0800 (CST) 
+2022-12-09 14:25:37.694 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 06:25:37 GMT+0800 (CST) 
+2022-12-09 14:25:37.695 | INFO     | __mp_main__:handle_client:165 - Date:Fri, 09 Dec 2022 06:25:37 GMT+0800 (CST) 
+2022-12-09 14:25:37.696 | INFO     | __mp_main__:handle_client:191 - Content-Type: MP3 
+2022-12-09 14:25:37.699 | INFO     | __mp_main__:handle_client:177 - Content-Length:159770 
+2022-12-09 14:25:37.701 | INFO     | __mp_main__:handle_client:167 - Content-Type: image/jpg 
+2022-12-09 14:25:37.701 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 14:25:37.701 | INFO     | __mp_main__:handle_client:167 - Content-Type: image/jpg 
+2022-12-09 14:25:37.702 | INFO     | __mp_main__:handle_client:193 - Content-Length:2668713 
+2022-12-09 14:25:37.705 | INFO     | __mp_main__:handle_client:169 - Content-Length:32637 
+2022-12-09 14:25:37.707 | INFO     | __mp_main__:handle_client:177 - Content-Length:18800 
+2022-12-09 14:25:37.711 | INFO     | __mp_main__:handle_client:169 - Content-Length:2799166 
+2022-12-09 14:25:37.845 | INFO     | __mp_main__:handle_client:71 - GET /john/Patrick.gif HTTP/1.1
+2022-12-09 14:25:37.848 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:25:37.849 | INFO     | __mp_main__:handle_client:181 - Date:Fri, 09 Dec 2022 06:25:37 GMT+0800 (CST) 
+2022-12-09 14:25:37.852 | INFO     | __mp_main__:handle_client:183 - Content-Type: PNG
+2022-12-09 14:25:37.854 | INFO     | __mp_main__:handle_client:185 - Content-Length:38614 
+2022-12-09 14:25:38.453 | INFO     | __mp_main__:handle_client:71 - GET /john/images/products-bg.png HTTP/1.1
+2022-12-09 14:25:38.457 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:25:38.463 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 06:25:38 GMT+0800 (CST) 
+2022-12-09 14:25:38.465 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 14:25:38.467 | INFO     | __mp_main__:handle_client:177 - Content-Length:238403 
+2022-12-09 14:25:38.484 | INFO     | __mp_main__:handle_client:71 - GET /john/apple.mp3 HTTP/1.1
+2022-12-09 14:25:38.487 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:25:38.493 | INFO     | __mp_main__:handle_client:189 - Date:Fri, 09 Dec 2022 06:25:38 GMT+0800 (CST) 
+2022-12-09 14:25:38.496 | INFO     | __mp_main__:handle_client:191 - Content-Type: MP3 
+2022-12-09 14:25:38.505 | INFO     | __mp_main__:handle_client:71 - GET /john/images/video-bg.png HTTP/1.1
+2022-12-09 14:25:38.507 | INFO     | __mp_main__:handle_client:193 - Content-Length:2668713 
+2022-12-09 14:25:38.515 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:25:38.530 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 06:25:38 GMT+0800 (CST) 
+2022-12-09 14:25:38.543 | INFO     | __mp_main__:handle_client:71 - GET /john/images/contact-bg.png HTTP/1.1
+2022-12-09 14:25:38.543 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 14:25:38.546 | INFO     | __mp_main__:handle_client:177 - Content-Length:277282 
+2022-12-09 14:25:38.548 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:25:38.553 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 06:25:38 GMT+0800 (CST) 
+2022-12-09 14:25:38.555 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 14:25:38.557 | INFO     | __mp_main__:handle_client:177 - Content-Length:830451 
+2022-12-09 14:25:38.595 | INFO     | __mp_main__:handle_client:71 - GET /john/happy.mp4 HTTP/1.1
+2022-12-09 14:25:38.613 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:25:38.615 | INFO     | __mp_main__:handle_client:197 - Date:Fri, 09 Dec 2022 06:25:38 GMT+0800 (CST) 
+2022-12-09 14:25:38.617 | INFO     | __mp_main__:handle_client:199 - Content-Type: MP4 
+2022-12-09 14:25:38.618 | INFO     | __mp_main__:handle_client:201 - Content-Length:32217766 
+2022-12-09 14:25:38.651 | INFO     | __mp_main__:handle_client:71 - GET /john/images/product-1.png HTTP/1.1
+2022-12-09 14:25:38.653 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 14:25:38.655 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 06:25:38 GMT+0800 (CST) 
+2022-12-09 14:25:38.656 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 14:25:38.658 | INFO     | __mp_main__:handle_client:177 - Content-Length:37845 
+2022-12-09 15:33:15.142 | INFO     | __mp_main__:handle_client:71 - GET /john/hello.py HTTP/1.1
+2022-12-09 15:33:15.146 | INFO     | __mp_main__:handle_client:105 - response_headers:HTTP/1.1 200 OK 
+2022-12-09 15:33:15.147 | INFO     | __mp_main__:handle_client:110 - Content-Type:text/html;charset=UTF-8 
+2022-12-09 15:33:15.621 | INFO     | __mp_main__:handle_client:71 - GET /favicon.ico HTTP/1.1
+2022-12-09 15:33:15.624 | INFO     | __mp_main__:handle_client:131 - HTTP/1.1 404 not found 
+2022-12-09 15:35:12.258 | INFO     | __mp_main__:handle_client:71 - GET /john/index1.html HTTP/1.1
+2022-12-09 15:35:12.261 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 15:35:12.263 | INFO     | __mp_main__:handle_client:157 - Date:Fri, 09 Dec 2022 07:35:12 GMT+0800 (CST) 
+2022-12-09 15:35:12.265 | INFO     | __mp_main__:handle_client:159 - Content-Type: TEXT/HTML 
+2022-12-09 15:35:12.267 | INFO     | __mp_main__:handle_client:161 - Content-Length:12024 
+2022-12-09 15:35:12.566 | INFO     | __mp_main__:handle_client:71 - GET /john/js/vendor/jquery-1.10.1.min.js HTTP/1.1
+2022-12-09 15:35:12.568 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 15:35:12.569 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 07:35:12 GMT+0800 (CST) 
+2022-12-09 15:35:12.571 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 15:35:12.572 | INFO     | __mp_main__:handle_client:225 - Content-Length:93074 
+2022-12-09 15:35:13.001 | INFO     | __mp_main__:handle_client:71 - GET /john/css/animate.min.css HTTP/1.1
+2022-12-09 15:35:13.005 | INFO     | __mp_main__:handle_client:71 - GET /john/css/templatemo_style.css HTTP/1.1
+2022-12-09 15:35:13.012 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 15:35:13.013 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 15:35:13.017 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 07:35:13 GMT+0800 (CST) 
+2022-12-09 15:35:13.019 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 07:35:13 GMT+0800 (CST) 
+2022-12-09 15:35:13.024 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 15:35:13.029 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 15:35:13.034 | INFO     | __mp_main__:handle_client:71 - GET /john/js/bootstrap.min.js HTTP/1.1
+2022-12-09 15:35:13.038 | INFO     | __mp_main__:handle_client:217 - Content-Length:57485 
+2022-12-09 15:35:13.034 | INFO     | __mp_main__:handle_client:71 - GET /john/css/normalize.min.css HTTP/1.1
+2022-12-09 15:35:13.043 | INFO     | __mp_main__:handle_client:217 - Content-Length:14352 
+2022-12-09 15:35:13.052 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 15:35:13.054 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 15:35:13.051 | INFO     | __mp_main__:handle_client:71 - GET /john/css/bootstrap.min.css HTTP/1.1
+2022-12-09 15:35:13.060 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 07:35:13 GMT+0800 (CST) 
+2022-12-09 15:35:13.060 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 07:35:13 GMT+0800 (CST) 
+2022-12-09 15:35:13.064 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 15:35:13.066 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 15:35:13.068 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 15:35:13.072 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 07:35:13 GMT+0800 (CST) 
+2022-12-09 15:35:13.074 | INFO     | __mp_main__:handle_client:225 - Content-Length:31822 
+2022-12-09 15:35:13.074 | INFO     | __mp_main__:handle_client:217 - Content-Length:2502 
+2022-12-09 15:35:13.075 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 15:35:13.081 | INFO     | __mp_main__:handle_client:217 - Content-Length:109518 
+2022-12-09 15:35:13.288 | INFO     | __mp_main__:handle_client:71 - GET /john/js/plugins.js HTTP/1.1
+2022-12-09 15:35:13.290 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 15:35:13.292 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 07:35:13 GMT+0800 (CST) 
+2022-12-09 15:35:13.294 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 15:35:13.295 | INFO     | __mp_main__:handle_client:225 - Content-Length:14626 
+2022-12-09 15:35:13.697 | INFO     | __mp_main__:handle_client:71 - GET /john/js/vendor/modernizr-2.6.2.min.js HTTP/1.1
+2022-12-09 15:35:13.699 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 15:35:13.700 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 07:35:13 GMT+0800 (CST) 
+2022-12-09 15:35:13.703 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 15:35:13.705 | INFO     | __mp_main__:handle_client:225 - Content-Length:15420 
+2022-12-09 15:35:13.749 | INFO     | __mp_main__:handle_client:71 - GET /john/images/uic.png HTTP/1.1
+2022-12-09 15:35:13.752 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 15:35:13.754 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 07:35:13 GMT+0800 (CST) 
+2022-12-09 15:35:13.755 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 15:35:13.757 | INFO     | __mp_main__:handle_client:177 - Content-Length:18800 
+2022-12-09 15:35:13.766 | INFO     | __mp_main__:handle_client:71 - GET /john/js/templatemo_custom.js HTTP/1.1
+2022-12-09 15:35:13.770 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 15:35:13.772 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 07:35:13 GMT+0800 (CST) 
+2022-12-09 15:35:13.773 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 15:35:13.775 | INFO     | __mp_main__:handle_client:225 - Content-Length:2200 
+2022-12-09 15:35:13.948 | INFO     | __mp_main__:handle_client:71 - GET /john/images/slide1.png HTTP/1.1
+2022-12-09 15:35:13.950 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 15:35:13.951 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 07:35:13 GMT+0800 (CST) 
+2022-12-09 15:35:13.952 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 15:35:13.954 | INFO     | __mp_main__:handle_client:177 - Content-Length:90485 
+2022-12-09 15:35:14.495 | INFO     | __mp_main__:handle_client:71 - GET /john/apple.mp3 HTTP/1.1
+2022-12-09 15:35:14.499 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 15:35:14.502 | INFO     | __mp_main__:handle_client:189 - Date:Fri, 09 Dec 2022 07:35:14 GMT+0800 (CST) 
+2022-12-09 15:35:14.503 | INFO     | __mp_main__:handle_client:191 - Content-Type: MP3 
+2022-12-09 15:35:14.505 | INFO     | __mp_main__:handle_client:193 - Content-Length:2668713 
+2022-12-09 15:35:14.538 | INFO     | __mp_main__:handle_client:71 - GET /john/123.jpg HTTP/1.1
+2022-12-09 15:35:14.547 | INFO     | __mp_main__:handle_client:71 - GET /john/twistzz.jpg HTTP/1.1
+2022-12-09 15:35:14.553 | INFO     | __mp_main__:handle_client:71 - GET /john/images/service-bg.png HTTP/1.1
+2022-12-09 15:35:14.561 | INFO     | __mp_main__:handle_client:71 - GET /john/Patrick.gif HTTP/1.1
+2022-12-09 15:35:14.561 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 15:35:14.561 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 15:35:14.564 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 15:35:14.566 | INFO     | __mp_main__:handle_client:165 - Date:Fri, 09 Dec 2022 07:35:14 GMT+0800 (CST) 
+2022-12-09 15:35:14.566 | INFO     | __mp_main__:handle_client:165 - Date:Fri, 09 Dec 2022 07:35:14 GMT+0800 (CST) 
+2022-12-09 15:35:14.567 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 15:35:14.568 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 07:35:14 GMT+0800 (CST) 
+2022-12-09 15:35:14.569 | INFO     | __mp_main__:handle_client:167 - Content-Type: image/jpg 
+2022-12-09 15:35:14.571 | INFO     | __mp_main__:handle_client:181 - Date:Fri, 09 Dec 2022 07:35:14 GMT+0800 (CST) 
+2022-12-09 15:35:14.570 | INFO     | __mp_main__:handle_client:167 - Content-Type: image/jpg 
+2022-12-09 15:35:14.572 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 15:35:14.573 | INFO     | __mp_main__:handle_client:169 - Content-Length:32637 
+2022-12-09 15:35:14.573 | INFO     | __mp_main__:handle_client:183 - Content-Type: PNG
+2022-12-09 15:35:14.573 | INFO     | __mp_main__:handle_client:169 - Content-Length:2799166 
+2022-12-09 15:35:14.575 | INFO     | __mp_main__:handle_client:177 - Content-Length:159770 
+2022-12-09 15:35:14.577 | INFO     | __mp_main__:handle_client:185 - Content-Length:38614 
+2022-12-09 15:35:14.713 | INFO     | __mp_main__:handle_client:71 - GET /john/images/product-1.png HTTP/1.1
+2022-12-09 15:35:14.716 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 15:35:14.718 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 07:35:14 GMT+0800 (CST) 
+2022-12-09 15:35:14.719 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 15:35:14.721 | INFO     | __mp_main__:handle_client:177 - Content-Length:37845 
+2022-12-09 15:35:15.263 | INFO     | __mp_main__:handle_client:71 - GET /john/images/slider-bg.png HTTP/1.1
+2022-12-09 15:35:15.267 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 15:35:15.269 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 07:35:15 GMT+0800 (CST) 
+2022-12-09 15:35:15.271 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 15:35:15.272 | INFO     | __mp_main__:handle_client:177 - Content-Length:358447 
+2022-12-09 15:35:15.372 | INFO     | __mp_main__:handle_client:71 - GET /john/images/video-bg.png HTTP/1.1
+2022-12-09 15:35:15.375 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 15:35:15.382 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 07:35:15 GMT+0800 (CST) 
+2022-12-09 15:35:15.386 | INFO     | __mp_main__:handle_client:71 - GET /john/images/products-bg.png HTTP/1.1
+2022-12-09 15:35:15.387 | INFO     | __mp_main__:handle_client:71 - GET /john/happy.mp4 HTTP/1.1
+2022-12-09 15:35:15.388 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 15:35:15.390 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 15:35:15.392 | INFO     | __mp_main__:handle_client:177 - Content-Length:277282 
+2022-12-09 15:35:15.393 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 07:35:15 GMT+0800 (CST) 
+2022-12-09 15:35:15.402 | INFO     | __mp_main__:handle_client:71 - GET /john/apple.mp3 HTTP/1.1
+2022-12-09 15:35:15.403 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 15:35:15.404 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 15:35:15.406 | INFO     | __mp_main__:handle_client:177 - Content-Length:238403 
+2022-12-09 15:35:15.407 | INFO     | __mp_main__:handle_client:197 - Date:Fri, 09 Dec 2022 07:35:15 GMT+0800 (CST) 
+2022-12-09 15:35:15.408 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 15:35:15.412 | INFO     | __mp_main__:handle_client:199 - Content-Type: MP4 
+2022-12-09 15:35:15.412 | INFO     | __mp_main__:handle_client:189 - Date:Fri, 09 Dec 2022 07:35:15 GMT+0800 (CST) 
+2022-12-09 15:35:15.414 | INFO     | __mp_main__:handle_client:201 - Content-Length:32217766 
+2022-12-09 15:35:15.414 | INFO     | __mp_main__:handle_client:191 - Content-Type: MP3 
+2022-12-09 15:35:15.417 | INFO     | __mp_main__:handle_client:193 - Content-Length:2668713 
+2022-12-09 15:35:15.500 | INFO     | __mp_main__:handle_client:71 - GET /john/images/contact-bg.png HTTP/1.1
+2022-12-09 15:35:15.503 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 15:35:15.505 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 07:35:15 GMT+0800 (CST) 
+2022-12-09 15:35:15.506 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 15:35:15.508 | INFO     | __mp_main__:handle_client:177 - Content-Length:830451 
+2022-12-09 16:11:10.531 | INFO     | __mp_main__:handle_client:71 - GET /john/index1.html HTTP/1.1
+2022-12-09 16:11:10.535 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:11:10.537 | INFO     | __mp_main__:handle_client:157 - Date:Fri, 09 Dec 2022 08:11:10 GMT+0800 (CST) 
+2022-12-09 16:11:10.539 | INFO     | __mp_main__:handle_client:159 - Content-Type: TEXT/HTML 
+2022-12-09 16:11:10.540 | INFO     | __mp_main__:handle_client:161 - Content-Length:12024 
+2022-12-09 16:11:10.866 | INFO     | __mp_main__:handle_client:71 - GET /john/css/templatemo_style.css HTTP/1.1
+2022-12-09 16:11:10.869 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:11:10.871 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 08:11:10 GMT+0800 (CST) 
+2022-12-09 16:11:10.872 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 16:11:10.873 | INFO     | __mp_main__:handle_client:217 - Content-Length:14352 
+2022-12-09 16:11:11.307 | INFO     | __mp_main__:handle_client:71 - GET /john/css/animate.min.css HTTP/1.1
+2022-12-09 16:11:11.306 | INFO     | __mp_main__:handle_client:71 - GET /john/css/normalize.min.css HTTP/1.1
+2022-12-09 16:11:11.308 | INFO     | __mp_main__:handle_client:71 - GET /john/css/bootstrap.min.css HTTP/1.1
+2022-12-09 16:11:11.313 | INFO     | __mp_main__:handle_client:71 - GET /john/js/bootstrap.min.js HTTP/1.1
+2022-12-09 16:11:11.314 | INFO     | __mp_main__:handle_client:71 - GET /john/js/vendor/jquery-1.10.1.min.js HTTP/1.1
+2022-12-09 16:11:11.316 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:11:11.316 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:11:11.318 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:11:11.323 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:11:11.324 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:11:11.324 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 08:11:11 GMT+0800 (CST) 
+2022-12-09 16:11:11.324 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 08:11:11 GMT+0800 (CST) 
+2022-12-09 16:11:11.325 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 08:11:11 GMT+0800 (CST) 
+2022-12-09 16:11:11.327 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 08:11:11 GMT+0800 (CST) 
+2022-12-09 16:11:11.327 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 16:11:11.327 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 08:11:11 GMT+0800 (CST) 
+2022-12-09 16:11:11.328 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 16:11:11.328 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 16:11:11.330 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 16:11:11.331 | INFO     | __mp_main__:handle_client:217 - Content-Length:57485 
+2022-12-09 16:11:11.331 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 16:11:11.331 | INFO     | __mp_main__:handle_client:217 - Content-Length:2502 
+2022-12-09 16:11:11.333 | INFO     | __mp_main__:handle_client:217 - Content-Length:109518 
+2022-12-09 16:11:11.335 | INFO     | __mp_main__:handle_client:225 - Content-Length:31822 
+2022-12-09 16:11:11.336 | INFO     | __mp_main__:handle_client:225 - Content-Length:93074 
+2022-12-09 16:11:11.546 | INFO     | __mp_main__:handle_client:71 - GET /john/js/plugins.js HTTP/1.1
+2022-12-09 16:11:11.548 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:11:11.549 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 08:11:11 GMT+0800 (CST) 
+2022-12-09 16:11:11.550 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 16:11:11.552 | INFO     | __mp_main__:handle_client:225 - Content-Length:14626 
+2022-12-09 16:11:11.988 | INFO     | __mp_main__:handle_client:71 - GET /john/js/vendor/modernizr-2.6.2.min.js HTTP/1.1
+2022-12-09 16:11:11.990 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:11:11.992 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 08:11:11 GMT+0800 (CST) 
+2022-12-09 16:11:11.993 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 16:11:11.994 | INFO     | __mp_main__:handle_client:225 - Content-Length:15420 
+2022-12-09 16:11:11.999 | INFO     | __mp_main__:handle_client:71 - GET /john/js/templatemo_custom.js HTTP/1.1
+2022-12-09 16:11:12.002 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:11:12.004 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 08:11:12 GMT+0800 (CST) 
+2022-12-09 16:11:12.006 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 16:11:12.007 | INFO     | __mp_main__:handle_client:225 - Content-Length:2200 
+2022-12-09 16:11:12.184 | INFO     | __mp_main__:handle_client:71 - GET /john/images/slide1.png HTTP/1.1
+2022-12-09 16:11:12.186 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:11:12.188 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 08:11:12 GMT+0800 (CST) 
+2022-12-09 16:11:12.189 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 16:11:12.190 | INFO     | __mp_main__:handle_client:177 - Content-Length:90485 
+2022-12-09 16:11:12.827 | INFO     | __mp_main__:handle_client:71 - GET /john/apple.mp3 HTTP/1.1
+2022-12-09 16:11:12.838 | INFO     | __mp_main__:handle_client:71 - GET /john/images/slider-bg.png HTTP/1.1
+2022-12-09 16:11:12.840 | INFO     | __mp_main__:handle_client:71 - GET /john/twistzz.jpg HTTP/1.1
+2022-12-09 16:11:12.846 | INFO     | __mp_main__:handle_client:71 - GET /john/images/uic.png HTTP/1.1
+2022-12-09 16:11:12.849 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:11:12.849 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:11:12.850 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:11:12.854 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:11:12.855 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 08:11:12 GMT+0800 (CST) 
+2022-12-09 16:11:12.855 | INFO     | __mp_main__:handle_client:189 - Date:Fri, 09 Dec 2022 08:11:12 GMT+0800 (CST) 
+2022-12-09 16:11:12.856 | INFO     | __mp_main__:handle_client:165 - Date:Fri, 09 Dec 2022 08:11:12 GMT+0800 (CST) 
+2022-12-09 16:11:12.858 | INFO     | __mp_main__:handle_client:71 - GET /john/images/service-bg.png HTTP/1.1
+2022-12-09 16:11:12.860 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 08:11:12 GMT+0800 (CST) 
+2022-12-09 16:11:12.861 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 16:11:12.861 | INFO     | __mp_main__:handle_client:191 - Content-Type: MP3 
+2022-12-09 16:11:12.861 | INFO     | __mp_main__:handle_client:167 - Content-Type: image/jpg 
+2022-12-09 16:11:12.864 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:11:12.864 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 16:11:12.864 | INFO     | __mp_main__:handle_client:177 - Content-Length:358447 
+2022-12-09 16:11:12.866 | INFO     | __mp_main__:handle_client:193 - Content-Length:2668713 
+2022-12-09 16:11:12.866 | INFO     | __mp_main__:handle_client:169 - Content-Length:32637 
+2022-12-09 16:11:12.869 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 08:11:12 GMT+0800 (CST) 
+2022-12-09 16:11:12.869 | INFO     | __mp_main__:handle_client:177 - Content-Length:18800 
+2022-12-09 16:11:12.874 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 16:11:12.882 | INFO     | __mp_main__:handle_client:177 - Content-Length:159770 
+2022-12-09 16:11:12.995 | INFO     | __mp_main__:handle_client:71 - GET /john/Patrick.gif HTTP/1.1
+2022-12-09 16:11:12.998 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:11:12.999 | INFO     | __mp_main__:handle_client:181 - Date:Fri, 09 Dec 2022 08:11:12 GMT+0800 (CST) 
+2022-12-09 16:11:13.001 | INFO     | __mp_main__:handle_client:183 - Content-Type: PNG
+2022-12-09 16:11:13.002 | INFO     | __mp_main__:handle_client:185 - Content-Length:38614 
+2022-12-09 16:11:13.604 | INFO     | __mp_main__:handle_client:71 - GET /john/apple.mp3 HTTP/1.1
+2022-12-09 16:11:13.608 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:11:13.612 | INFO     | __mp_main__:handle_client:71 - GET /john/images/product-1.png HTTP/1.1
+2022-12-09 16:11:13.614 | INFO     | __mp_main__:handle_client:189 - Date:Fri, 09 Dec 2022 08:11:13 GMT+0800 (CST) 
+2022-12-09 16:11:13.616 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:11:13.617 | INFO     | __mp_main__:handle_client:191 - Content-Type: MP3 
+2022-12-09 16:11:13.619 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 08:11:13 GMT+0800 (CST) 
+2022-12-09 16:11:13.619 | INFO     | __mp_main__:handle_client:193 - Content-Length:2668713 
+2022-12-09 16:11:13.621 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 16:11:13.625 | INFO     | __mp_main__:handle_client:177 - Content-Length:37845 
+2022-12-09 16:11:13.653 | INFO     | __mp_main__:handle_client:71 - GET /john/images/products-bg.png HTTP/1.1
+2022-12-09 16:11:13.664 | INFO     | __mp_main__:handle_client:71 - GET /john/images/video-bg.png HTTP/1.1
+2022-12-09 16:11:13.670 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:11:13.677 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:11:13.678 | INFO     | __mp_main__:handle_client:71 - GET /john/happy.mp4 HTTP/1.1
+2022-12-09 16:11:13.679 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 08:11:13 GMT+0800 (CST) 
+2022-12-09 16:11:13.680 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 08:11:13 GMT+0800 (CST) 
+2022-12-09 16:11:13.682 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 16:11:13.683 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 16:11:13.685 | INFO     | __mp_main__:handle_client:177 - Content-Length:238403 
+2022-12-09 16:11:13.686 | INFO     | __mp_main__:handle_client:177 - Content-Length:277282 
+2022-12-09 16:11:13.714 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:11:13.716 | INFO     | __mp_main__:handle_client:197 - Date:Fri, 09 Dec 2022 08:11:13 GMT+0800 (CST) 
+2022-12-09 16:11:13.719 | INFO     | __mp_main__:handle_client:199 - Content-Type: MP4 
+2022-12-09 16:11:13.723 | INFO     | __mp_main__:handle_client:201 - Content-Length:32217766 
+2022-12-09 16:11:13.742 | INFO     | __mp_main__:handle_client:71 - GET /john/images/contact-bg.png HTTP/1.1
+2022-12-09 16:11:13.748 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:11:13.751 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 08:11:13 GMT+0800 (CST) 
+2022-12-09 16:11:13.754 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 16:11:13.755 | INFO     | __mp_main__:handle_client:177 - Content-Length:830451 
+2022-12-09 16:11:14.277 | INFO     | __mp_main__:handle_client:71 - GET /john/123.jpg HTTP/1.1
+2022-12-09 16:11:14.284 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:11:14.285 | INFO     | __mp_main__:handle_client:165 - Date:Fri, 09 Dec 2022 08:11:14 GMT+0800 (CST) 
+2022-12-09 16:11:14.286 | INFO     | __mp_main__:handle_client:167 - Content-Type: image/jpg 
+2022-12-09 16:11:14.288 | INFO     | __mp_main__:handle_client:169 - Content-Length:2799166 
+2022-12-09 16:11:14.352 | INFO     | __mp_main__:handle_client:71 - GET /favicon.ico HTTP/1.1
+2022-12-09 16:11:14.354 | INFO     | __mp_main__:handle_client:131 - HTTP/1.1 404 not found 
+2022-12-09 16:11:27.565 | INFO     | __mp_main__:handle_client:71 - GET /john/audio.html HTTP/1.1
+2022-12-09 16:11:27.568 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:11:27.569 | INFO     | __mp_main__:handle_client:157 - Date:Fri, 09 Dec 2022 08:11:27 GMT+0800 (CST) 
+2022-12-09 16:11:27.570 | INFO     | __mp_main__:handle_client:159 - Content-Type: TEXT/HTML 
+2022-12-09 16:11:27.572 | INFO     | __mp_main__:handle_client:161 - Content-Length:2338 
+2022-12-09 16:11:28.353 | INFO     | __mp_main__:handle_client:71 - GET /john/css/bootstrap.min.css HTTP/1.1
+2022-12-09 16:11:28.357 | INFO     | __mp_main__:handle_client:71 - GET /john/css/animate.min.css HTTP/1.1
+2022-12-09 16:11:28.362 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:11:28.368 | INFO     | __mp_main__:handle_client:71 - GET /john/css/normalize.min.css HTTP/1.1
+2022-12-09 16:11:28.370 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:11:28.373 | INFO     | __mp_main__:handle_client:71 - GET /john/css/font-awesome.min.css HTTP/1.1
+2022-12-09 16:11:28.374 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 08:11:28 GMT+0800 (CST) 
+2022-12-09 16:11:28.375 | INFO     | __mp_main__:handle_client:71 - GET /john/css/templatemo_style.css HTTP/1.1
+2022-12-09 16:11:28.375 | INFO     | __mp_main__:handle_client:71 - GET /john/js/vendor/modernizr-2.6.2.min.js HTTP/1.1
+2022-12-09 16:11:28.377 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 08:11:28 GMT+0800 (CST) 
+2022-12-09 16:11:28.377 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:11:28.378 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 16:11:28.381 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:11:28.385 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:11:28.386 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:11:28.386 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 16:11:28.387 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 08:11:28 GMT+0800 (CST) 
+2022-12-09 16:11:28.388 | INFO     | __mp_main__:handle_client:217 - Content-Length:109518 
+2022-12-09 16:11:28.389 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 08:11:28 GMT+0800 (CST) 
+2022-12-09 16:11:28.389 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 08:11:28 GMT+0800 (CST) 
+2022-12-09 16:11:28.389 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 08:11:28 GMT+0800 (CST) 
+2022-12-09 16:11:28.390 | INFO     | __mp_main__:handle_client:217 - Content-Length:57485 
+2022-12-09 16:11:28.390 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 16:11:28.392 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 16:11:28.393 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 16:11:28.394 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 16:11:28.395 | INFO     | __mp_main__:handle_client:217 - Content-Length:2502 
+2022-12-09 16:11:28.397 | INFO     | __mp_main__:handle_client:217 - Content-Length:20699 
+2022-12-09 16:11:28.398 | INFO     | __mp_main__:handle_client:225 - Content-Length:15420 
+2022-12-09 16:11:28.398 | INFO     | __mp_main__:handle_client:217 - Content-Length:14352 
+2022-12-09 16:11:29.078 | INFO     | __mp_main__:handle_client:71 - GET /john/images/video-bg.png HTTP/1.1
+2022-12-09 16:11:29.083 | INFO     | __mp_main__:handle_client:71 - GET /john/apple.mp3 HTTP/1.1
+2022-12-09 16:11:29.085 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:11:29.088 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:11:29.088 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 08:11:29 GMT+0800 (CST) 
+2022-12-09 16:11:29.092 | INFO     | __mp_main__:handle_client:189 - Date:Fri, 09 Dec 2022 08:11:29 GMT+0800 (CST) 
+2022-12-09 16:11:29.093 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 16:11:29.096 | INFO     | __mp_main__:handle_client:191 - Content-Type: MP3 
+2022-12-09 16:11:29.096 | INFO     | __mp_main__:handle_client:177 - Content-Length:277282 
+2022-12-09 16:11:29.098 | INFO     | __mp_main__:handle_client:193 - Content-Length:2668713 
+2022-12-09 16:11:29.120 | INFO     | __mp_main__:handle_client:71 - GET /john/happy.mp4 HTTP/1.1
+2022-12-09 16:11:29.143 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:11:29.145 | INFO     | __mp_main__:handle_client:197 - Date:Fri, 09 Dec 2022 08:11:29 GMT+0800 (CST) 
+2022-12-09 16:11:29.147 | INFO     | __mp_main__:handle_client:199 - Content-Type: MP4 
+2022-12-09 16:11:29.148 | INFO     | __mp_main__:handle_client:201 - Content-Length:32217766 
+2022-12-09 16:11:29.412 | INFO     | __mp_main__:handle_client:71 - GET /john/apple.mp3 HTTP/1.1
+2022-12-09 16:11:29.416 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:11:29.417 | INFO     | __mp_main__:handle_client:189 - Date:Fri, 09 Dec 2022 08:11:29 GMT+0800 (CST) 
+2022-12-09 16:11:29.419 | INFO     | __mp_main__:handle_client:191 - Content-Type: MP3 
+2022-12-09 16:11:29.420 | INFO     | __mp_main__:handle_client:193 - Content-Length:2668713 
+2022-12-09 16:11:34.432 | INFO     | __mp_main__:handle_client:71 - GET /richard/audio.html HTTP/1.1
+2022-12-09 16:11:34.436 | INFO     | __mp_main__:handle_client:131 - HTTP/1.1 404 not found 
+2022-12-09 16:11:36.030 | INFO     | __mp_main__:handle_client:71 - GET /john/index.html HTTP/1.1
+2022-12-09 16:11:36.034 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:11:36.036 | INFO     | __mp_main__:handle_client:157 - Date:Fri, 09 Dec 2022 08:11:36 GMT+0800 (CST) 
+2022-12-09 16:11:36.037 | INFO     | __mp_main__:handle_client:159 - Content-Type: TEXT/HTML 
+2022-12-09 16:11:36.039 | INFO     | __mp_main__:handle_client:161 - Content-Length:2186 
+2022-12-09 16:11:36.304 | INFO     | __mp_main__:handle_client:71 - GET /john/js/vendor/modernizr-2.6.2.min.js HTTP/1.1
+2022-12-09 16:11:36.306 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:11:36.308 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 08:11:36 GMT+0800 (CST) 
+2022-12-09 16:11:36.309 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 16:11:36.311 | INFO     | __mp_main__:handle_client:225 - Content-Length:15420 
+2022-12-09 16:11:36.759 | INFO     | __mp_main__:handle_client:71 - GET /john/css/animate.min.css HTTP/1.1
+2022-12-09 16:11:36.762 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:11:36.764 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 08:11:36 GMT+0800 (CST) 
+2022-12-09 16:11:36.765 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 16:11:36.767 | INFO     | __mp_main__:handle_client:217 - Content-Length:57485 
+2022-12-09 16:11:36.786 | INFO     | __mp_main__:handle_client:71 - GET /john/css/normalize.min.css HTTP/1.1
+2022-12-09 16:11:36.796 | INFO     | __mp_main__:handle_client:71 - GET /john/css/templatemo_style.css HTTP/1.1
+2022-12-09 16:11:36.797 | INFO     | __mp_main__:handle_client:71 - GET /john/css/bootstrap.min.css HTTP/1.1
+2022-12-09 16:11:36.806 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:11:36.808 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:11:36.810 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:11:36.813 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 08:11:36 GMT+0800 (CST) 
+2022-12-09 16:11:36.812 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 08:11:36 GMT+0800 (CST) 
+2022-12-09 16:11:36.813 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 08:11:36 GMT+0800 (CST) 
+2022-12-09 16:11:36.816 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 16:11:36.816 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 16:11:36.817 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 16:11:36.820 | INFO     | __mp_main__:handle_client:217 - Content-Length:2502 
+2022-12-09 16:11:36.820 | INFO     | __mp_main__:handle_client:217 - Content-Length:14352 
+2022-12-09 16:11:36.821 | INFO     | __mp_main__:handle_client:217 - Content-Length:109518 
+2022-12-09 16:11:37.063 | INFO     | __mp_main__:handle_client:71 - GET /john/images/service-bg.png HTTP/1.1
+2022-12-09 16:11:37.065 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:11:37.068 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 08:11:37 GMT+0800 (CST) 
+2022-12-09 16:11:37.069 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 16:11:37.070 | INFO     | __mp_main__:handle_client:177 - Content-Length:159770 
+2022-12-09 16:12:04.431 | INFO     | __mp_main__:handle_client:71 - GET /john/audio.html HTTP/1.1
+2022-12-09 16:12:04.433 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:12:04.436 | INFO     | __mp_main__:handle_client:157 - Date:Fri, 09 Dec 2022 08:12:04 GMT+0800 (CST) 
+2022-12-09 16:12:04.438 | INFO     | __mp_main__:handle_client:159 - Content-Type: TEXT/HTML 
+2022-12-09 16:12:04.439 | INFO     | __mp_main__:handle_client:161 - Content-Length:2338 
+2022-12-09 16:12:04.699 | INFO     | __mp_main__:handle_client:71 - GET /john/js/vendor/modernizr-2.6.2.min.js HTTP/1.1
+2022-12-09 16:12:04.701 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:12:04.702 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 08:12:04 GMT+0800 (CST) 
+2022-12-09 16:12:04.704 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 16:12:04.706 | INFO     | __mp_main__:handle_client:225 - Content-Length:15420 
+2022-12-09 16:12:05.218 | INFO     | __mp_main__:handle_client:71 - GET /john/css/normalize.min.css HTTP/1.1
+2022-12-09 16:12:05.222 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:12:05.234 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 08:12:05 GMT+0800 (CST) 
+2022-12-09 16:12:05.235 | INFO     | __mp_main__:handle_client:71 - GET /john/css/templatemo_style.css HTTP/1.1
+2022-12-09 16:12:05.240 | INFO     | __mp_main__:handle_client:71 - GET /john/css/font-awesome.min.css HTTP/1.1
+2022-12-09 16:12:05.244 | INFO     | __mp_main__:handle_client:71 - GET /john/css/animate.min.css HTTP/1.1
+2022-12-09 16:12:05.244 | INFO     | __mp_main__:handle_client:71 - GET /john/css/bootstrap.min.css HTTP/1.1
+2022-12-09 16:12:05.244 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 16:12:05.246 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:12:05.251 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:12:05.249 | INFO     | __mp_main__:handle_client:217 - Content-Length:2502 
+2022-12-09 16:12:05.250 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:12:05.251 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:12:05.252 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 08:12:05 GMT+0800 (CST) 
+2022-12-09 16:12:05.254 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 08:12:05 GMT+0800 (CST) 
+2022-12-09 16:12:05.255 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 08:12:05 GMT+0800 (CST) 
+2022-12-09 16:12:05.255 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 08:12:05 GMT+0800 (CST) 
+2022-12-09 16:12:05.257 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 16:12:05.262 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 16:12:05.263 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 16:12:05.263 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 16:12:05.264 | INFO     | __mp_main__:handle_client:217 - Content-Length:14352 
+2022-12-09 16:12:05.265 | INFO     | __mp_main__:handle_client:217 - Content-Length:57485 
+2022-12-09 16:12:05.266 | INFO     | __mp_main__:handle_client:217 - Content-Length:20699 
+2022-12-09 16:12:05.266 | INFO     | __mp_main__:handle_client:217 - Content-Length:109518 
+2022-12-09 16:12:05.420 | INFO     | __mp_main__:handle_client:71 - GET /john/apple.mp3 HTTP/1.1
+2022-12-09 16:12:05.423 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:12:05.424 | INFO     | __mp_main__:handle_client:189 - Date:Fri, 09 Dec 2022 08:12:05 GMT+0800 (CST) 
+2022-12-09 16:12:05.426 | INFO     | __mp_main__:handle_client:191 - Content-Type: MP3 
+2022-12-09 16:12:05.429 | INFO     | __mp_main__:handle_client:193 - Content-Length:2668713 
+2022-12-09 16:12:05.911 | INFO     | __mp_main__:handle_client:71 - GET /john/images/video-bg.png HTTP/1.1
+2022-12-09 16:12:05.913 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:12:05.916 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 08:12:05 GMT+0800 (CST) 
+2022-12-09 16:12:05.917 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 16:12:05.919 | INFO     | __mp_main__:handle_client:177 - Content-Length:277282 
+2022-12-09 16:12:05.948 | INFO     | __mp_main__:handle_client:71 - GET /john/happy.mp4 HTTP/1.1
+2022-12-09 16:12:05.962 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:12:05.964 | INFO     | __mp_main__:handle_client:197 - Date:Fri, 09 Dec 2022 08:12:05 GMT+0800 (CST) 
+2022-12-09 16:12:05.967 | INFO     | __mp_main__:handle_client:199 - Content-Type: MP4 
+2022-12-09 16:12:05.970 | INFO     | __mp_main__:handle_client:201 - Content-Length:32217766 
+2022-12-09 16:12:06.083 | INFO     | __mp_main__:handle_client:71 - GET /john/apple.mp3 HTTP/1.1
+2022-12-09 16:12:06.085 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:12:06.087 | INFO     | __mp_main__:handle_client:189 - Date:Fri, 09 Dec 2022 08:12:06 GMT+0800 (CST) 
+2022-12-09 16:12:06.088 | INFO     | __mp_main__:handle_client:191 - Content-Type: MP3 
+2022-12-09 16:12:06.089 | INFO     | __mp_main__:handle_client:193 - Content-Length:2668713 
+2022-12-09 16:13:46.020 | INFO     | __mp_main__:handle_client:71 - GET /john/askda HTTP/1.1
+2022-12-09 16:13:46.023 | INFO     | __mp_main__:handle_client:141 - HTTP/1.1 400 not found 
+2022-12-09 16:13:46.337 | INFO     | __mp_main__:handle_client:71 - GET /john/js/vendor/modernizr-2.6.2.min.js HTTP/1.1
+2022-12-09 16:13:46.340 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:13:46.342 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 08:13:46 GMT+0800 (CST) 
+2022-12-09 16:13:46.344 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 16:13:46.346 | INFO     | __mp_main__:handle_client:225 - Content-Length:15420 
+2022-12-09 16:13:46.842 | INFO     | __mp_main__:handle_client:71 - GET /john/css/normalize.min.css HTTP/1.1
+2022-12-09 16:13:46.844 | INFO     | __mp_main__:handle_client:71 - GET /john/css/animate.min.css HTTP/1.1
+2022-12-09 16:13:46.850 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:13:46.852 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:13:46.854 | INFO     | __mp_main__:handle_client:71 - GET /john/css/templatemo_style.css HTTP/1.1
+2022-12-09 16:13:46.858 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 08:13:46 GMT+0800 (CST) 
+2022-12-09 16:13:46.859 | INFO     | __mp_main__:handle_client:71 - GET /john/css/bootstrap.min.css HTTP/1.1
+2022-12-09 16:13:46.859 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 08:13:46 GMT+0800 (CST) 
+2022-12-09 16:13:46.862 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:13:46.862 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 16:13:46.865 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 16:13:46.865 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:13:46.866 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 08:13:46 GMT+0800 (CST) 
+2022-12-09 16:13:46.867 | INFO     | __mp_main__:handle_client:217 - Content-Length:2502 
+2022-12-09 16:13:46.868 | INFO     | __mp_main__:handle_client:217 - Content-Length:57485 
+2022-12-09 16:13:46.869 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 08:13:46 GMT+0800 (CST) 
+2022-12-09 16:13:46.870 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 16:13:46.872 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 16:13:46.874 | INFO     | __mp_main__:handle_client:217 - Content-Length:14352 
+2022-12-09 16:13:46.877 | INFO     | __mp_main__:handle_client:217 - Content-Length:109518 
+2022-12-09 16:13:47.093 | INFO     | __mp_main__:handle_client:71 - GET /john/images/service-bg.png HTTP/1.1
+2022-12-09 16:13:47.096 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:13:47.098 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 08:13:47 GMT+0800 (CST) 
+2022-12-09 16:13:47.099 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 16:13:47.100 | INFO     | __mp_main__:handle_client:177 - Content-Length:159770 
+2022-12-09 16:15:10.608 | INFO     | __mp_main__:handle_client:71 - GET /john/index2331.html HTTP/1.1
+2022-12-09 16:15:10.612 | INFO     | __mp_main__:handle_client:141 - HTTP/1.1 404 not found 
+2022-12-09 16:15:10.880 | INFO     | __mp_main__:handle_client:71 - GET /john/js/vendor/modernizr-2.6.2.min.js HTTP/1.1
+2022-12-09 16:15:10.882 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:15:10.884 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 08:15:10 GMT+0800 (CST) 
+2022-12-09 16:15:10.885 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 16:15:10.887 | INFO     | __mp_main__:handle_client:225 - Content-Length:15420 
+2022-12-09 16:15:11.377 | INFO     | __mp_main__:handle_client:71 - GET /john/css/normalize.min.css HTTP/1.1
+2022-12-09 16:15:11.380 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:15:11.385 | INFO     | __mp_main__:handle_client:71 - GET /john/css/animate.min.css HTTP/1.1
+2022-12-09 16:15:11.386 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 08:15:11 GMT+0800 (CST) 
+2022-12-09 16:15:11.391 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:15:11.393 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 16:15:11.400 | INFO     | __mp_main__:handle_client:71 - GET /john/css/templatemo_style.css HTTP/1.1
+2022-12-09 16:15:11.401 | INFO     | __mp_main__:handle_client:71 - GET /john/css/bootstrap.min.css HTTP/1.1
+2022-12-09 16:15:11.402 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 08:15:11 GMT+0800 (CST) 
+2022-12-09 16:15:11.403 | INFO     | __mp_main__:handle_client:217 - Content-Length:2502 
+2022-12-09 16:15:11.405 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:15:11.406 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 16:15:11.407 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:15:11.410 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 08:15:11 GMT+0800 (CST) 
+2022-12-09 16:15:11.411 | INFO     | __mp_main__:handle_client:217 - Content-Length:57485 
+2022-12-09 16:15:11.413 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 08:15:11 GMT+0800 (CST) 
+2022-12-09 16:15:11.414 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 16:15:11.420 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 16:15:11.421 | INFO     | __mp_main__:handle_client:217 - Content-Length:14352 
+2022-12-09 16:15:11.422 | INFO     | __mp_main__:handle_client:217 - Content-Length:109518 
+2022-12-09 16:15:11.593 | INFO     | __mp_main__:handle_client:71 - GET /john/images/service-bg.png HTTP/1.1
+2022-12-09 16:15:11.596 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:15:11.597 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 08:15:11 GMT+0800 (CST) 
+2022-12-09 16:15:11.598 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 16:15:11.599 | INFO     | __mp_main__:handle_client:177 - Content-Length:159770 
+2022-12-09 16:35:34.184 | INFO     | __mp_main__:handle_client:71 - GET /john/index221.html HTTP/1.1
+2022-12-09 16:35:34.186 | INFO     | __mp_main__:handle_client:141 - HTTP/1.1 404 not found 
+2022-12-09 16:35:34.483 | INFO     | __mp_main__:handle_client:71 - GET /john/js/vendor/modernizr-2.6.2.min.js HTTP/1.1
+2022-12-09 16:35:34.486 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:35:34.488 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 08:35:34 GMT+0800 (CST) 
+2022-12-09 16:35:34.491 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 16:35:34.492 | INFO     | __mp_main__:handle_client:225 - Content-Length:15420 
+2022-12-09 16:35:35.039 | INFO     | __mp_main__:handle_client:71 - GET /john/css/bootstrap.min.css HTTP/1.1
+2022-12-09 16:35:35.048 | INFO     | __mp_main__:handle_client:71 - GET /john/css/normalize.min.css HTTP/1.1
+2022-12-09 16:35:35.052 | INFO     | __mp_main__:handle_client:71 - GET /john/css/templatemo_style.css HTTP/1.1
+2022-12-09 16:35:35.053 | INFO     | __mp_main__:handle_client:71 - GET /john/css/animate.min.css HTTP/1.1
+2022-12-09 16:35:35.054 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:35:35.057 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:35:35.060 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:35:35.061 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:35:35.062 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 08:35:35 GMT+0800 (CST) 
+2022-12-09 16:35:35.063 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 08:35:35 GMT+0800 (CST) 
+2022-12-09 16:35:35.064 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 08:35:35 GMT+0800 (CST) 
+2022-12-09 16:35:35.065 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 08:35:35 GMT+0800 (CST) 
+2022-12-09 16:35:35.065 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 16:35:35.066 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 16:35:35.067 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 16:35:35.068 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 16:35:35.068 | INFO     | __mp_main__:handle_client:217 - Content-Length:109518 
+2022-12-09 16:35:35.069 | INFO     | __mp_main__:handle_client:217 - Content-Length:2502 
+2022-12-09 16:35:35.070 | INFO     | __mp_main__:handle_client:217 - Content-Length:14352 
+2022-12-09 16:35:35.071 | INFO     | __mp_main__:handle_client:217 - Content-Length:57485 
+2022-12-09 16:35:35.253 | INFO     | __mp_main__:handle_client:71 - GET /john/images/service-bg.png HTTP/1.1
+2022-12-09 16:35:35.255 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:35:35.256 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 08:35:35 GMT+0800 (CST) 
+2022-12-09 16:35:35.258 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 16:35:35.260 | INFO     | __mp_main__:handle_client:177 - Content-Length:159770 
+2022-12-09 16:35:35.915 | INFO     | __mp_main__:handle_client:71 - GET /favicon.ico HTTP/1.1
+2022-12-09 16:35:35.917 | INFO     | __mp_main__:handle_client:131 - HTTP/1.1 404 not found 
+2022-12-09 16:35:38.475 | INFO     | __mp_main__:handle_client:71 - GET /john/css/bootstrap.min.css HTTP/1.1
+2022-12-09 16:35:38.478 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:35:38.480 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 08:35:38 GMT+0800 (CST) 
+2022-12-09 16:35:38.482 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 16:35:38.483 | INFO     | __mp_main__:handle_client:217 - Content-Length:109518 
+2022-12-09 16:35:39.190 | INFO     | __mp_main__:handle_client:71 - GET /john/css/normalize.min.css HTTP/1.1
+2022-12-09 16:35:39.196 | INFO     | __mp_main__:handle_client:71 - GET /john/css/templatemo_style.css HTTP/1.1
+2022-12-09 16:35:39.197 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:35:39.199 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:35:39.200 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 08:35:39 GMT+0800 (CST) 
+2022-12-09 16:35:39.206 | INFO     | __mp_main__:handle_client:71 - GET /john/css/animate.min.css HTTP/1.1
+2022-12-09 16:35:39.206 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 08:35:39 GMT+0800 (CST) 
+2022-12-09 16:35:39.208 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 16:35:39.210 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 16:35:39.211 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:35:39.211 | INFO     | __mp_main__:handle_client:217 - Content-Length:2502 
+2022-12-09 16:35:39.212 | INFO     | __mp_main__:handle_client:217 - Content-Length:14352 
+2022-12-09 16:35:39.213 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 08:35:39 GMT+0800 (CST) 
+2022-12-09 16:35:39.215 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 16:35:39.218 | INFO     | __mp_main__:handle_client:217 - Content-Length:57485 
+2022-12-09 16:35:40.136 | INFO     | __mp_main__:handle_client:71 - GET /john/index221.html HTTP/1.1
+2022-12-09 16:35:40.139 | INFO     | __mp_main__:handle_client:141 - HTTP/1.1 404 not found 
+2022-12-09 16:35:40.899 | INFO     | __mp_main__:handle_client:71 - GET /john/css/animate.min.css HTTP/1.1
+2022-12-09 16:35:40.908 | INFO     | __mp_main__:handle_client:71 - GET /john/css/templatemo_style.css HTTP/1.1
+2022-12-09 16:35:40.912 | INFO     | __mp_main__:handle_client:71 - GET /john/css/bootstrap.min.css HTTP/1.1
+2022-12-09 16:35:40.913 | INFO     | __mp_main__:handle_client:71 - GET /john/css/normalize.min.css HTTP/1.1
+2022-12-09 16:35:40.914 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:35:40.915 | INFO     | __mp_main__:handle_client:71 - GET /john/js/vendor/modernizr-2.6.2.min.js HTTP/1.1
+2022-12-09 16:35:40.917 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:35:40.918 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 08:35:40 GMT+0800 (CST) 
+2022-12-09 16:35:40.919 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:35:40.921 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:35:40.922 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:35:40.922 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 08:35:40 GMT+0800 (CST) 
+2022-12-09 16:35:40.923 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 16:35:40.924 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 08:35:40 GMT+0800 (CST) 
+2022-12-09 16:35:40.924 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 08:35:40 GMT+0800 (CST) 
+2022-12-09 16:35:40.925 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 08:35:40 GMT+0800 (CST) 
+2022-12-09 16:35:40.926 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 16:35:40.927 | INFO     | __mp_main__:handle_client:217 - Content-Length:57485 
+2022-12-09 16:35:40.928 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 16:35:40.928 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 16:35:40.929 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 16:35:40.929 | INFO     | __mp_main__:handle_client:217 - Content-Length:14352 
+2022-12-09 16:35:40.931 | INFO     | __mp_main__:handle_client:217 - Content-Length:2502 
+2022-12-09 16:35:40.931 | INFO     | __mp_main__:handle_client:217 - Content-Length:109518 
+2022-12-09 16:35:40.932 | INFO     | __mp_main__:handle_client:225 - Content-Length:15420 
+2022-12-09 16:35:41.159 | INFO     | __mp_main__:handle_client:71 - GET /john/images/service-bg.png HTTP/1.1
+2022-12-09 16:35:41.163 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 16:35:41.164 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 08:35:41 GMT+0800 (CST) 
+2022-12-09 16:35:41.165 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 16:35:41.167 | INFO     | __mp_main__:handle_client:177 - Content-Length:159770 
+2022-12-09 17:23:49.565 | INFO     | __mp_main__:handle_client:71 - GET /john/index1.html HTTP/1.1
+2022-12-09 17:23:49.569 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:23:49.571 | INFO     | __mp_main__:handle_client:157 - Date:Fri, 09 Dec 2022 09:23:49 GMT+0800 (CST) 
+2022-12-09 17:23:49.576 | INFO     | __mp_main__:handle_client:159 - Content-Type: TEXT/HTML 
+2022-12-09 17:23:49.578 | INFO     | __mp_main__:handle_client:161 - Content-Length:12024 
+2022-12-09 17:23:49.942 | INFO     | __mp_main__:handle_client:71 - GET /john/js/vendor/jquery-1.10.1.min.js HTTP/1.1
+2022-12-09 17:23:49.946 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:23:49.947 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 09:23:49 GMT+0800 (CST) 
+2022-12-09 17:23:49.950 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 17:23:49.954 | INFO     | __mp_main__:handle_client:225 - Content-Length:93074 
+2022-12-09 17:23:50.583 | INFO     | __mp_main__:handle_client:71 - GET /john/css/templatemo_style.css HTTP/1.1
+2022-12-09 17:23:50.598 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:23:50.602 | INFO     | __mp_main__:handle_client:71 - GET /john/css/animate.min.css HTTP/1.1
+2022-12-09 17:23:50.616 | INFO     | __mp_main__:handle_client:71 - GET /john/css/normalize.min.css HTTP/1.1
+2022-12-09 17:23:50.617 | INFO     | __mp_main__:handle_client:71 - GET /john/css/bootstrap.min.css HTTP/1.1
+2022-12-09 17:23:50.618 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 09:23:50 GMT+0800 (CST) 
+2022-12-09 17:23:50.622 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:23:50.629 | INFO     | __mp_main__:handle_client:71 - GET /john/js/bootstrap.min.js HTTP/1.1
+2022-12-09 17:23:50.631 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 17:23:50.637 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:23:50.636 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:23:50.638 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 09:23:50 GMT+0800 (CST) 
+2022-12-09 17:23:50.641 | INFO     | __mp_main__:handle_client:217 - Content-Length:14352 
+2022-12-09 17:23:50.642 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:23:50.642 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 09:23:50 GMT+0800 (CST) 
+2022-12-09 17:23:50.642 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 09:23:50 GMT+0800 (CST) 
+2022-12-09 17:23:50.643 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 17:23:50.649 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 17:23:50.649 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 09:23:50 GMT+0800 (CST) 
+2022-12-09 17:23:50.650 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 17:23:50.651 | INFO     | __mp_main__:handle_client:217 - Content-Length:57485 
+2022-12-09 17:23:50.654 | INFO     | __mp_main__:handle_client:217 - Content-Length:2502 
+2022-12-09 17:23:50.654 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 17:23:50.655 | INFO     | __mp_main__:handle_client:217 - Content-Length:109518 
+2022-12-09 17:23:50.660 | INFO     | __mp_main__:handle_client:225 - Content-Length:31822 
+2022-12-09 17:23:50.821 | INFO     | __mp_main__:handle_client:71 - GET /john/js/plugins.js HTTP/1.1
+2022-12-09 17:23:50.825 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:23:50.828 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 09:23:50 GMT+0800 (CST) 
+2022-12-09 17:23:50.830 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 17:23:50.832 | INFO     | __mp_main__:handle_client:225 - Content-Length:14626 
+2022-12-09 17:23:51.400 | INFO     | __mp_main__:handle_client:71 - GET /john/js/vendor/modernizr-2.6.2.min.js HTTP/1.1
+2022-12-09 17:23:51.400 | INFO     | __mp_main__:handle_client:71 - GET /john/js/templatemo_custom.js HTTP/1.1
+2022-12-09 17:23:51.404 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:23:51.404 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:23:51.406 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 09:23:51 GMT+0800 (CST) 
+2022-12-09 17:23:51.407 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 09:23:51 GMT+0800 (CST) 
+2022-12-09 17:23:51.409 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 17:23:51.410 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 17:23:51.411 | INFO     | __mp_main__:handle_client:225 - Content-Length:15420 
+2022-12-09 17:23:51.412 | INFO     | __mp_main__:handle_client:225 - Content-Length:2200 
+2022-12-09 17:23:51.624 | INFO     | __mp_main__:handle_client:71 - GET /john/images/uic.png HTTP/1.1
+2022-12-09 17:23:51.628 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:23:51.633 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 09:23:51 GMT+0800 (CST) 
+2022-12-09 17:23:51.635 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 17:23:51.637 | INFO     | __mp_main__:handle_client:177 - Content-Length:18800 
+2022-12-09 17:23:52.383 | INFO     | __mp_main__:handle_client:71 - GET /john/apple.mp3 HTTP/1.1
+2022-12-09 17:23:52.391 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:23:52.394 | INFO     | __mp_main__:handle_client:189 - Date:Fri, 09 Dec 2022 09:23:52 GMT+0800 (CST) 
+2022-12-09 17:23:52.396 | INFO     | __mp_main__:handle_client:191 - Content-Type: MP3 
+2022-12-09 17:23:52.398 | INFO     | __mp_main__:handle_client:193 - Content-Length:2668713 
+2022-12-09 17:23:52.441 | INFO     | __mp_main__:handle_client:71 - GET /john/images/slider-bg.png HTTP/1.1
+2022-12-09 17:23:52.468 | INFO     | __mp_main__:handle_client:71 - GET /john/images/slide1.png HTTP/1.1
+2022-12-09 17:23:52.484 | INFO     | __mp_main__:handle_client:71 - GET /john/images/service-bg.png HTTP/1.1
+2022-12-09 17:23:52.485 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:23:52.486 | INFO     | __mp_main__:handle_client:71 - GET /john/twistzz.jpg HTTP/1.1
+2022-12-09 17:23:52.489 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:23:52.491 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 09:23:52 GMT+0800 (CST) 
+2022-12-09 17:23:52.494 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:23:52.495 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:23:52.500 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 09:23:52 GMT+0800 (CST) 
+2022-12-09 17:23:52.502 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 17:23:52.503 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 09:23:52 GMT+0800 (CST) 
+2022-12-09 17:23:52.503 | INFO     | __mp_main__:handle_client:165 - Date:Fri, 09 Dec 2022 09:23:52 GMT+0800 (CST) 
+2022-12-09 17:23:52.505 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 17:23:52.506 | INFO     | __mp_main__:handle_client:177 - Content-Length:358447 
+2022-12-09 17:23:52.507 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 17:23:52.508 | INFO     | __mp_main__:handle_client:167 - Content-Type: image/jpg 
+2022-12-09 17:23:52.509 | INFO     | __mp_main__:handle_client:177 - Content-Length:90485 
+2022-12-09 17:23:52.515 | INFO     | __mp_main__:handle_client:177 - Content-Length:159770 
+2022-12-09 17:23:52.517 | INFO     | __mp_main__:handle_client:169 - Content-Length:32637 
+2022-12-09 17:23:52.661 | INFO     | __mp_main__:handle_client:71 - GET /john/123.jpg HTTP/1.1
+2022-12-09 17:23:52.667 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:23:52.670 | INFO     | __mp_main__:handle_client:165 - Date:Fri, 09 Dec 2022 09:23:52 GMT+0800 (CST) 
+2022-12-09 17:23:52.673 | INFO     | __mp_main__:handle_client:167 - Content-Type: image/jpg 
+2022-12-09 17:23:52.676 | INFO     | __mp_main__:handle_client:169 - Content-Length:2799166 
+2022-12-09 17:23:53.423 | INFO     | __mp_main__:handle_client:71 - GET /john/images/video-bg.png HTTP/1.1
+2022-12-09 17:23:53.431 | INFO     | __mp_main__:handle_client:71 - GET /john/images/products-bg.png HTTP/1.1
+2022-12-09 17:23:53.433 | INFO     | __mp_main__:handle_client:71 - GET /john/images/product-1.png HTTP/1.1
+2022-12-09 17:23:53.436 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:23:53.440 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:23:53.441 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:23:53.447 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 09:23:53 GMT+0800 (CST) 
+2022-12-09 17:23:53.450 | INFO     | __mp_main__:handle_client:71 - GET /john/Patrick.gif HTTP/1.1
+2022-12-09 17:23:53.451 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 09:23:53 GMT+0800 (CST) 
+2022-12-09 17:23:53.452 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 09:23:53 GMT+0800 (CST) 
+2022-12-09 17:23:53.453 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 17:23:53.456 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:23:53.456 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 17:23:53.457 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 17:23:53.458 | INFO     | __mp_main__:handle_client:177 - Content-Length:277282 
+2022-12-09 17:23:53.460 | INFO     | __mp_main__:handle_client:177 - Content-Length:238403 
+2022-12-09 17:23:53.460 | INFO     | __mp_main__:handle_client:181 - Date:Fri, 09 Dec 2022 09:23:53 GMT+0800 (CST) 
+2022-12-09 17:23:53.460 | INFO     | __mp_main__:handle_client:177 - Content-Length:37845 
+2022-12-09 17:23:53.470 | INFO     | __mp_main__:handle_client:183 - Content-Type: PNG
+2022-12-09 17:23:53.475 | INFO     | __mp_main__:handle_client:185 - Content-Length:38614 
+2022-12-09 17:23:53.503 | INFO     | __mp_main__:handle_client:71 - GET /john/apple.mp3 HTTP/1.1
+2022-12-09 17:23:53.509 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:23:53.515 | INFO     | __mp_main__:handle_client:189 - Date:Fri, 09 Dec 2022 09:23:53 GMT+0800 (CST) 
+2022-12-09 17:23:53.517 | INFO     | __mp_main__:handle_client:191 - Content-Type: MP3 
+2022-12-09 17:23:53.520 | INFO     | __mp_main__:handle_client:193 - Content-Length:2668713 
+2022-12-09 17:23:53.597 | INFO     | __mp_main__:handle_client:71 - GET /john/happy.mp4 HTTP/1.1
+2022-12-09 17:23:53.613 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:23:53.614 | INFO     | __mp_main__:handle_client:197 - Date:Fri, 09 Dec 2022 09:23:53 GMT+0800 (CST) 
+2022-12-09 17:23:53.616 | INFO     | __mp_main__:handle_client:199 - Content-Type: MP4 
+2022-12-09 17:23:53.618 | INFO     | __mp_main__:handle_client:201 - Content-Length:32217766 
+2022-12-09 17:23:54.223 | INFO     | __mp_main__:handle_client:71 - GET /john/images/contact-bg.png HTTP/1.1
+2022-12-09 17:23:54.227 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:23:54.229 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 09:23:54 GMT+0800 (CST) 
+2022-12-09 17:23:54.231 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 17:23:54.233 | INFO     | __mp_main__:handle_client:177 - Content-Length:830451 
+2022-12-09 17:23:54.876 | INFO     | __mp_main__:handle_client:71 - GET /favicon.ico HTTP/1.1
+2022-12-09 17:23:54.879 | INFO     | __mp_main__:handle_client:131 - HTTP/1.1 404 not found 
+2022-12-09 17:24:20.033 | INFO     | __mp_main__:handle_client:71 - GET /john/index1.html HTTP/1.1
+2022-12-09 17:24:20.042 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:24:20.044 | INFO     | __mp_main__:handle_client:157 - Date:Fri, 09 Dec 2022 09:24:20 GMT+0800 (CST) 
+2022-12-09 17:24:20.046 | INFO     | __mp_main__:handle_client:159 - Content-Type: TEXT/HTML 
+2022-12-09 17:24:20.049 | INFO     | __mp_main__:handle_client:161 - Content-Length:12024 
+2022-12-09 17:24:20.362 | INFO     | __mp_main__:handle_client:71 - GET /john/js/vendor/jquery-1.10.1.min.js HTTP/1.1
+2022-12-09 17:24:20.366 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:24:20.368 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 09:24:20 GMT+0800 (CST) 
+2022-12-09 17:24:20.370 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 17:24:20.372 | INFO     | __mp_main__:handle_client:225 - Content-Length:93074 
+2022-12-09 17:24:20.989 | INFO     | __mp_main__:handle_client:71 - GET /john/css/animate.min.css HTTP/1.1
+2022-12-09 17:24:20.993 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:24:20.996 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 09:24:20 GMT+0800 (CST) 
+2022-12-09 17:24:21.001 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 17:24:21.008 | INFO     | __mp_main__:handle_client:217 - Content-Length:57485 
+2022-12-09 17:24:21.014 | INFO     | __mp_main__:handle_client:71 - GET /john/css/templatemo_style.css HTTP/1.1
+2022-12-09 17:24:21.023 | INFO     | __mp_main__:handle_client:71 - GET /john/js/bootstrap.min.js HTTP/1.1
+2022-12-09 17:24:21.031 | INFO     | __mp_main__:handle_client:71 - GET /john/css/bootstrap.min.css HTTP/1.1
+2022-12-09 17:24:21.038 | INFO     | __mp_main__:handle_client:71 - GET /john/css/normalize.min.css HTTP/1.1
+2022-12-09 17:24:21.038 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:24:21.040 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:24:21.043 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:24:21.049 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 09:24:21 GMT+0800 (CST) 
+2022-12-09 17:24:21.050 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:24:21.052 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 09:24:21 GMT+0800 (CST) 
+2022-12-09 17:24:21.055 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 09:24:21 GMT+0800 (CST) 
+2022-12-09 17:24:21.056 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 17:24:21.057 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 09:24:21 GMT+0800 (CST) 
+2022-12-09 17:24:21.057 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 17:24:21.060 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 17:24:21.063 | INFO     | __mp_main__:handle_client:217 - Content-Length:14352 
+2022-12-09 17:24:21.065 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 17:24:21.066 | INFO     | __mp_main__:handle_client:225 - Content-Length:31822 
+2022-12-09 17:24:21.066 | INFO     | __mp_main__:handle_client:217 - Content-Length:109518 
+2022-12-09 17:24:21.070 | INFO     | __mp_main__:handle_client:217 - Content-Length:2502 
+2022-12-09 17:24:21.247 | INFO     | __mp_main__:handle_client:71 - GET /john/js/plugins.js HTTP/1.1
+2022-12-09 17:24:21.251 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:24:21.253 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 09:24:21 GMT+0800 (CST) 
+2022-12-09 17:24:21.256 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 17:24:21.259 | INFO     | __mp_main__:handle_client:225 - Content-Length:14626 
+2022-12-09 17:24:21.777 | INFO     | __mp_main__:handle_client:71 - GET /john/js/templatemo_custom.js HTTP/1.1
+2022-12-09 17:24:21.780 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:24:21.782 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 09:24:21 GMT+0800 (CST) 
+2022-12-09 17:24:21.786 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 17:24:21.788 | INFO     | __mp_main__:handle_client:225 - Content-Length:2200 
+2022-12-09 17:24:21.840 | INFO     | __mp_main__:handle_client:71 - GET /john/js/vendor/modernizr-2.6.2.min.js HTTP/1.1
+2022-12-09 17:24:21.844 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:24:21.850 | INFO     | __mp_main__:handle_client:71 - GET /john/images/uic.png HTTP/1.1
+2022-12-09 17:24:21.851 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 09:24:21 GMT+0800 (CST) 
+2022-12-09 17:24:21.853 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:24:21.854 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 17:24:21.855 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 09:24:21 GMT+0800 (CST) 
+2022-12-09 17:24:21.856 | INFO     | __mp_main__:handle_client:225 - Content-Length:15420 
+2022-12-09 17:24:21.857 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 17:24:21.860 | INFO     | __mp_main__:handle_client:177 - Content-Length:18800 
+2022-12-09 17:24:22.057 | INFO     | __mp_main__:handle_client:71 - GET /john/twistzz.jpg HTTP/1.1
+2022-12-09 17:24:22.062 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:24:22.064 | INFO     | __mp_main__:handle_client:165 - Date:Fri, 09 Dec 2022 09:24:22 GMT+0800 (CST) 
+2022-12-09 17:24:22.067 | INFO     | __mp_main__:handle_client:167 - Content-Type: image/jpg 
+2022-12-09 17:24:22.070 | INFO     | __mp_main__:handle_client:169 - Content-Length:32637 
+2022-12-09 17:24:22.788 | INFO     | __mp_main__:handle_client:71 - GET /john/images/slider-bg.png HTTP/1.1
+2022-12-09 17:24:22.793 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:24:22.800 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 09:24:22 GMT+0800 (CST) 
+2022-12-09 17:24:22.801 | INFO     | __mp_main__:handle_client:71 - GET /john/apple.mp3 HTTP/1.1
+2022-12-09 17:24:22.808 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 17:24:22.811 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:24:22.813 | INFO     | __mp_main__:handle_client:177 - Content-Length:358447 
+2022-12-09 17:24:22.815 | INFO     | __mp_main__:handle_client:189 - Date:Fri, 09 Dec 2022 09:24:22 GMT+0800 (CST) 
+2022-12-09 17:24:22.830 | INFO     | __mp_main__:handle_client:71 - GET /john/images/slide1.png HTTP/1.1
+2022-12-09 17:24:22.842 | INFO     | __mp_main__:handle_client:71 - GET /john/images/products-bg.png HTTP/1.1
+2022-12-09 17:24:22.843 | INFO     | __mp_main__:handle_client:191 - Content-Type: MP3 
+2022-12-09 17:24:22.845 | INFO     | __mp_main__:handle_client:71 - GET /john/images/service-bg.png HTTP/1.1
+2022-12-09 17:24:22.847 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:24:22.851 | INFO     | __mp_main__:handle_client:193 - Content-Length:2668713 
+2022-12-09 17:24:22.852 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:24:22.856 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:24:22.856 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 09:24:22 GMT+0800 (CST) 
+2022-12-09 17:24:22.859 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 09:24:22 GMT+0800 (CST) 
+2022-12-09 17:24:22.863 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 09:24:22 GMT+0800 (CST) 
+2022-12-09 17:24:22.863 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 17:24:22.869 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 17:24:22.870 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 17:24:22.871 | INFO     | __mp_main__:handle_client:177 - Content-Length:90485 
+2022-12-09 17:24:22.873 | INFO     | __mp_main__:handle_client:177 - Content-Length:238403 
+2022-12-09 17:24:22.876 | INFO     | __mp_main__:handle_client:177 - Content-Length:159770 
+2022-12-09 17:24:23.005 | INFO     | __mp_main__:handle_client:71 - GET /john/images/video-bg.png HTTP/1.1
+2022-12-09 17:24:23.009 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:24:23.010 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 09:24:23 GMT+0800 (CST) 
+2022-12-09 17:24:23.012 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 17:24:23.014 | INFO     | __mp_main__:handle_client:177 - Content-Length:277282 
+2022-12-09 17:24:23.725 | INFO     | __mp_main__:handle_client:71 - GET /john/123.jpg HTTP/1.1
+2022-12-09 17:24:23.731 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:24:23.735 | INFO     | __mp_main__:handle_client:165 - Date:Fri, 09 Dec 2022 09:24:23 GMT+0800 (CST) 
+2022-12-09 17:24:23.738 | INFO     | __mp_main__:handle_client:167 - Content-Type: image/jpg 
+2022-12-09 17:24:23.740 | INFO     | __mp_main__:handle_client:169 - Content-Length:2799166 
+2022-12-09 17:24:23.823 | INFO     | __mp_main__:handle_client:71 - GET /john/Patrick.gif HTTP/1.1
+2022-12-09 17:24:23.827 | INFO     | __mp_main__:handle_client:71 - GET /john/images/contact-bg.png HTTP/1.1
+2022-12-09 17:24:23.831 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:24:23.833 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:24:23.835 | INFO     | __mp_main__:handle_client:181 - Date:Fri, 09 Dec 2022 09:24:23 GMT+0800 (CST) 
+2022-12-09 17:24:23.837 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 09:24:23 GMT+0800 (CST) 
+2022-12-09 17:24:23.840 | INFO     | __mp_main__:handle_client:183 - Content-Type: PNG
+2022-12-09 17:24:23.842 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 17:24:23.844 | INFO     | __mp_main__:handle_client:185 - Content-Length:38614 
+2022-12-09 17:24:23.845 | INFO     | __mp_main__:handle_client:177 - Content-Length:830451 
+2022-12-09 17:24:23.879 | INFO     | __mp_main__:handle_client:71 - GET /john/images/product-1.png HTTP/1.1
+2022-12-09 17:24:23.879 | INFO     | __mp_main__:handle_client:71 - GET /john/apple.mp3 HTTP/1.1
+2022-12-09 17:24:23.885 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:24:23.888 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:24:23.889 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 09:24:23 GMT+0800 (CST) 
+2022-12-09 17:24:23.891 | INFO     | __mp_main__:handle_client:189 - Date:Fri, 09 Dec 2022 09:24:23 GMT+0800 (CST) 
+2022-12-09 17:24:23.892 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 17:24:23.895 | INFO     | __mp_main__:handle_client:191 - Content-Type: MP3 
+2022-12-09 17:24:23.895 | INFO     | __mp_main__:handle_client:177 - Content-Length:37845 
+2022-12-09 17:24:23.898 | INFO     | __mp_main__:handle_client:193 - Content-Length:2668713 
+2022-12-09 17:24:23.981 | INFO     | __mp_main__:handle_client:71 - GET /john/happy.mp4 HTTP/1.1
+2022-12-09 17:24:23.999 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:24:24.001 | INFO     | __mp_main__:handle_client:197 - Date:Fri, 09 Dec 2022 09:24:24 GMT+0800 (CST) 
+2022-12-09 17:24:24.003 | INFO     | __mp_main__:handle_client:199 - Content-Type: MP4 
+2022-12-09 17:24:24.005 | INFO     | __mp_main__:handle_client:201 - Content-Length:32217766 
+2022-12-09 17:25:13.819 | INFO     | __mp_main__:handle_client:71 - GET /richard/index1.html HTTP/1.1
+2022-12-09 17:25:13.823 | INFO     | __mp_main__:handle_client:131 - HTTP/1.1 404 not found 
+2022-12-09 17:25:22.134 | INFO     | __mp_main__:handle_client:71 - GET /john/index.html HTTP/1.1
+2022-12-09 17:25:22.139 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:25:22.141 | INFO     | __mp_main__:handle_client:157 - Date:Fri, 09 Dec 2022 09:25:22 GMT+0800 (CST) 
+2022-12-09 17:25:22.143 | INFO     | __mp_main__:handle_client:159 - Content-Type: TEXT/HTML 
+2022-12-09 17:25:22.145 | INFO     | __mp_main__:handle_client:161 - Content-Length:2186 
+2022-12-09 17:25:22.437 | INFO     | __mp_main__:handle_client:71 - GET /john/js/vendor/modernizr-2.6.2.min.js HTTP/1.1
+2022-12-09 17:25:22.444 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:25:22.447 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 09:25:22 GMT+0800 (CST) 
+2022-12-09 17:25:22.453 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 17:25:22.456 | INFO     | __mp_main__:handle_client:225 - Content-Length:15420 
+2022-12-09 17:25:23.005 | INFO     | __mp_main__:handle_client:71 - GET /john/css/animate.min.css HTTP/1.1
+2022-12-09 17:25:23.008 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:25:23.010 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 09:25:23 GMT+0800 (CST) 
+2022-12-09 17:25:23.012 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 17:25:23.017 | INFO     | __mp_main__:handle_client:217 - Content-Length:57485 
+2022-12-09 17:25:23.020 | INFO     | __mp_main__:handle_client:71 - GET /john/css/templatemo_style.css HTTP/1.1
+2022-12-09 17:25:23.042 | INFO     | __mp_main__:handle_client:71 - GET /john/css/normalize.min.css HTTP/1.1
+2022-12-09 17:25:23.042 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:25:23.044 | INFO     | __mp_main__:handle_client:71 - GET /john/css/bootstrap.min.css HTTP/1.1
+2022-12-09 17:25:23.046 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 09:25:23 GMT+0800 (CST) 
+2022-12-09 17:25:23.048 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:25:23.049 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:25:23.051 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 17:25:23.051 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 09:25:23 GMT+0800 (CST) 
+2022-12-09 17:25:23.052 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 09:25:23 GMT+0800 (CST) 
+2022-12-09 17:25:23.054 | INFO     | __mp_main__:handle_client:217 - Content-Length:14352 
+2022-12-09 17:25:23.057 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 17:25:23.059 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 17:25:23.061 | INFO     | __mp_main__:handle_client:217 - Content-Length:2502 
+2022-12-09 17:25:23.063 | INFO     | __mp_main__:handle_client:217 - Content-Length:109518 
+2022-12-09 17:25:23.305 | INFO     | __mp_main__:handle_client:71 - GET /john/images/service-bg.png HTTP/1.1
+2022-12-09 17:25:23.310 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:25:23.312 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 09:25:23 GMT+0800 (CST) 
+2022-12-09 17:25:23.315 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 17:25:23.317 | INFO     | __mp_main__:handle_client:177 - Content-Length:159770 
+2022-12-09 17:25:33.628 | INFO     | __mp_main__:handle_client:71 - GET /john/indexhgjh.html HTTP/1.1
+2022-12-09 17:25:33.631 | INFO     | __mp_main__:handle_client:141 - HTTP/1.1 404 not found 
+2022-12-09 17:25:33.915 | INFO     | __mp_main__:handle_client:71 - GET /john/js/vendor/modernizr-2.6.2.min.js HTTP/1.1
+2022-12-09 17:25:33.917 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:25:33.919 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 09:25:33 GMT+0800 (CST) 
+2022-12-09 17:25:33.923 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 17:25:33.924 | INFO     | __mp_main__:handle_client:225 - Content-Length:15420 
+2022-12-09 17:25:34.549 | INFO     | __mp_main__:handle_client:71 - GET /john/css/animate.min.css HTTP/1.1
+2022-12-09 17:25:34.553 | INFO     | __mp_main__:handle_client:71 - GET /john/css/bootstrap.min.css HTTP/1.1
+2022-12-09 17:25:34.554 | INFO     | __mp_main__:handle_client:71 - GET /john/css/templatemo_style.css HTTP/1.1
+2022-12-09 17:25:34.559 | INFO     | __mp_main__:handle_client:71 - GET /john/css/normalize.min.css HTTP/1.1
+2022-12-09 17:25:34.564 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:25:34.565 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:25:34.565 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:25:34.568 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:25:34.571 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 09:25:34 GMT+0800 (CST) 
+2022-12-09 17:25:34.571 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 09:25:34 GMT+0800 (CST) 
+2022-12-09 17:25:34.572 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 09:25:34 GMT+0800 (CST) 
+2022-12-09 17:25:34.573 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 09:25:34 GMT+0800 (CST) 
+2022-12-09 17:25:34.575 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 17:25:34.575 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 17:25:34.575 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 17:25:34.577 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 17:25:34.580 | INFO     | __mp_main__:handle_client:217 - Content-Length:57485 
+2022-12-09 17:25:34.580 | INFO     | __mp_main__:handle_client:217 - Content-Length:109518 
+2022-12-09 17:25:34.580 | INFO     | __mp_main__:handle_client:217 - Content-Length:14352 
+2022-12-09 17:25:34.581 | INFO     | __mp_main__:handle_client:217 - Content-Length:2502 
+2022-12-09 17:25:34.782 | INFO     | __mp_main__:handle_client:71 - GET /john/images/service-bg.png HTTP/1.1
+2022-12-09 17:25:34.788 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:25:34.792 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 09:25:34 GMT+0800 (CST) 
+2022-12-09 17:25:34.796 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 17:25:34.798 | INFO     | __mp_main__:handle_client:177 - Content-Length:159770 
+2022-12-09 17:25:52.689 | INFO     | __mp_main__:handle_client:71 - GET /john/index1.html HTTP/1.1
+2022-12-09 17:25:52.695 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:25:52.698 | INFO     | __mp_main__:handle_client:157 - Date:Fri, 09 Dec 2022 09:25:52 GMT+0800 (CST) 
+2022-12-09 17:25:52.700 | INFO     | __mp_main__:handle_client:159 - Content-Type: TEXT/HTML 
+2022-12-09 17:25:52.702 | INFO     | __mp_main__:handle_client:161 - Content-Length:12024 
+2022-12-09 17:25:52.963 | INFO     | __mp_main__:handle_client:71 - GET /john/js/vendor/jquery-1.10.1.min.js HTTP/1.1
+2022-12-09 17:25:52.967 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:25:52.969 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 09:25:52 GMT+0800 (CST) 
+2022-12-09 17:25:52.970 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 17:25:52.972 | INFO     | __mp_main__:handle_client:225 - Content-Length:93074 
+2022-12-09 17:25:53.705 | INFO     | __mp_main__:handle_client:71 - GET /john/css/templatemo_style.css HTTP/1.1
+2022-12-09 17:25:53.712 | INFO     | __mp_main__:handle_client:71 - GET /john/js/bootstrap.min.js HTTP/1.1
+2022-12-09 17:25:53.711 | INFO     | __mp_main__:handle_client:71 - GET /john/css/normalize.min.css HTTP/1.1
+2022-12-09 17:25:53.714 | INFO     | __mp_main__:handle_client:71 - GET /john/css/animate.min.css HTTP/1.1
+2022-12-09 17:25:53.715 | INFO     | __mp_main__:handle_client:71 - GET /john/css/bootstrap.min.css HTTP/1.1
+2022-12-09 17:25:53.721 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:25:53.729 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:25:53.730 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:25:53.731 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:25:53.732 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:25:53.734 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 09:25:53 GMT+0800 (CST) 
+2022-12-09 17:25:53.737 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 09:25:53 GMT+0800 (CST) 
+2022-12-09 17:25:53.738 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 09:25:53 GMT+0800 (CST) 
+2022-12-09 17:25:53.739 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 09:25:53 GMT+0800 (CST) 
+2022-12-09 17:25:53.740 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 09:25:53 GMT+0800 (CST) 
+2022-12-09 17:25:53.742 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 17:25:53.743 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 17:25:53.743 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 17:25:53.744 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 17:25:53.745 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 17:25:53.747 | INFO     | __mp_main__:handle_client:217 - Content-Length:14352 
+2022-12-09 17:25:53.748 | INFO     | __mp_main__:handle_client:225 - Content-Length:31822 
+2022-12-09 17:25:53.749 | INFO     | __mp_main__:handle_client:217 - Content-Length:57485 
+2022-12-09 17:25:53.749 | INFO     | __mp_main__:handle_client:217 - Content-Length:2502 
+2022-12-09 17:25:53.753 | INFO     | __mp_main__:handle_client:217 - Content-Length:109518 
+2022-12-09 17:25:53.885 | INFO     | __mp_main__:handle_client:71 - GET /john/js/plugins.js HTTP/1.1
+2022-12-09 17:25:53.888 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:25:53.890 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 09:25:53 GMT+0800 (CST) 
+2022-12-09 17:25:53.892 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 17:25:53.893 | INFO     | __mp_main__:handle_client:225 - Content-Length:14626 
+2022-12-09 17:25:54.586 | INFO     | __mp_main__:handle_client:71 - GET /john/js/vendor/modernizr-2.6.2.min.js HTTP/1.1
+2022-12-09 17:25:54.589 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:25:54.592 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 09:25:54 GMT+0800 (CST) 
+2022-12-09 17:25:54.594 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 17:25:54.597 | INFO     | __mp_main__:handle_client:225 - Content-Length:15420 
+2022-12-09 17:25:54.611 | INFO     | __mp_main__:handle_client:71 - GET /john/js/templatemo_custom.js HTTP/1.1
+2022-12-09 17:25:54.617 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:25:54.620 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 09:25:54 GMT+0800 (CST) 
+2022-12-09 17:25:54.622 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 17:25:54.624 | INFO     | __mp_main__:handle_client:225 - Content-Length:2200 
+2022-12-09 17:25:54.633 | INFO     | __mp_main__:handle_client:71 - GET /john/images/uic.png HTTP/1.1
+2022-12-09 17:25:54.641 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:25:54.644 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 09:25:54 GMT+0800 (CST) 
+2022-12-09 17:25:54.654 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 17:25:54.657 | INFO     | __mp_main__:handle_client:177 - Content-Length:18800 
+2022-12-09 17:25:54.731 | INFO     | __mp_main__:handle_client:71 - GET /john/images/slide1.png HTTP/1.1
+2022-12-09 17:25:54.735 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:25:54.737 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 09:25:54 GMT+0800 (CST) 
+2022-12-09 17:25:54.739 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 17:25:54.742 | INFO     | __mp_main__:handle_client:177 - Content-Length:90485 
+2022-12-09 17:25:55.592 | INFO     | __mp_main__:handle_client:71 - GET /john/apple.mp3 HTTP/1.1
+2022-12-09 17:25:55.598 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:25:55.603 | INFO     | __mp_main__:handle_client:189 - Date:Fri, 09 Dec 2022 09:25:55 GMT+0800 (CST) 
+2022-12-09 17:25:55.605 | INFO     | __mp_main__:handle_client:191 - Content-Type: MP3 
+2022-12-09 17:25:55.608 | INFO     | __mp_main__:handle_client:193 - Content-Length:2668713 
+2022-12-09 17:25:55.636 | INFO     | __mp_main__:handle_client:71 - GET /john/images/slider-bg.png HTTP/1.1
+2022-12-09 17:25:55.650 | INFO     | __mp_main__:handle_client:71 - GET /john/Patrick.gif HTTP/1.1
+2022-12-09 17:25:55.663 | INFO     | __mp_main__:handle_client:71 - GET /john/123.jpg HTTP/1.1
+2022-12-09 17:25:55.664 | INFO     | __mp_main__:handle_client:71 - GET /john/images/service-bg.png HTTP/1.1
+2022-12-09 17:25:55.671 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:25:55.672 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:25:55.678 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:25:55.678 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:25:55.681 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 09:25:55 GMT+0800 (CST) 
+2022-12-09 17:25:55.682 | INFO     | __mp_main__:handle_client:181 - Date:Fri, 09 Dec 2022 09:25:55 GMT+0800 (CST) 
+2022-12-09 17:25:55.684 | INFO     | __mp_main__:handle_client:165 - Date:Fri, 09 Dec 2022 09:25:55 GMT+0800 (CST) 
+2022-12-09 17:25:55.684 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 09:25:55 GMT+0800 (CST) 
+2022-12-09 17:25:55.685 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 17:25:55.686 | INFO     | __mp_main__:handle_client:183 - Content-Type: PNG
+2022-12-09 17:25:55.688 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 17:25:55.688 | INFO     | __mp_main__:handle_client:167 - Content-Type: image/jpg 
+2022-12-09 17:25:55.691 | INFO     | __mp_main__:handle_client:177 - Content-Length:358447 
+2022-12-09 17:25:55.699 | INFO     | __mp_main__:handle_client:177 - Content-Length:159770 
+2022-12-09 17:25:55.700 | INFO     | __mp_main__:handle_client:169 - Content-Length:2799166 
+2022-12-09 17:25:55.702 | INFO     | __mp_main__:handle_client:71 - GET /john/images/product-1.png HTTP/1.1
+2022-12-09 17:25:55.723 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:25:55.740 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 09:25:55 GMT+0800 (CST) 
+2022-12-09 17:25:55.749 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 17:25:55.754 | INFO     | __mp_main__:handle_client:177 - Content-Length:37845 
+2022-12-09 17:25:56.524 | INFO     | __mp_main__:handle_client:71 - GET /john/happy.mp4 HTTP/1.1
+2022-12-09 17:25:56.553 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:25:56.556 | INFO     | __mp_main__:handle_client:197 - Date:Fri, 09 Dec 2022 09:25:56 GMT+0800 (CST) 
+2022-12-09 17:25:56.559 | INFO     | __mp_main__:handle_client:199 - Content-Type: MP4 
+2022-12-09 17:25:56.562 | INFO     | __mp_main__:handle_client:201 - Content-Length:32217766 
+2022-12-09 17:25:56.712 | INFO     | __mp_main__:handle_client:71 - GET /john/apple.mp3 HTTP/1.1
+2022-12-09 17:25:56.729 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:25:56.740 | INFO     | __mp_main__:handle_client:71 - GET /john/twistzz.jpg HTTP/1.1
+2022-12-09 17:25:56.754 | INFO     | __mp_main__:handle_client:189 - Date:Fri, 09 Dec 2022 09:25:56 GMT+0800 (CST) 
+2022-12-09 17:25:56.761 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:25:56.763 | INFO     | __mp_main__:handle_client:191 - Content-Type: MP3 
+2022-12-09 17:25:56.769 | INFO     | __mp_main__:handle_client:165 - Date:Fri, 09 Dec 2022 09:25:56 GMT+0800 (CST) 
+2022-12-09 17:25:56.775 | INFO     | __mp_main__:handle_client:193 - Content-Length:2668713 
+2022-12-09 17:25:56.797 | INFO     | __mp_main__:handle_client:71 - GET /john/images/products-bg.png HTTP/1.1
+2022-12-09 17:25:56.799 | INFO     | __mp_main__:handle_client:167 - Content-Type: image/jpg 
+2022-12-09 17:25:56.815 | INFO     | __mp_main__:handle_client:169 - Content-Length:32637 
+2022-12-09 17:25:56.814 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:25:56.828 | INFO     | __mp_main__:handle_client:71 - GET /john/images/video-bg.png HTTP/1.1
+2022-12-09 17:25:56.834 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 09:25:56 GMT+0800 (CST) 
+2022-12-09 17:25:56.846 | INFO     | __mp_main__:handle_client:71 - GET /john/images/contact-bg.png HTTP/1.1
+2022-12-09 17:25:56.853 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:25:56.856 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 17:25:56.861 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:25:56.862 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 09:25:56 GMT+0800 (CST) 
+2022-12-09 17:25:56.863 | INFO     | __mp_main__:handle_client:177 - Content-Length:238403 
+2022-12-09 17:25:56.866 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 09:25:56 GMT+0800 (CST) 
+2022-12-09 17:25:56.867 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 17:25:56.870 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 17:25:56.872 | INFO     | __mp_main__:handle_client:177 - Content-Length:277282 
+2022-12-09 17:25:56.885 | INFO     | __mp_main__:handle_client:177 - Content-Length:830451 
+2022-12-09 17:26:12.465 | INFO     | __mp_main__:handle_client:71 - GET /john/hello,py HTTP/1.1
+2022-12-09 17:26:12.470 | INFO     | __mp_main__:handle_client:141 - HTTP/1.1 404 not found 
+2022-12-09 17:26:13.539 | INFO     | __mp_main__:handle_client:71 - GET /john/js/vendor/modernizr-2.6.2.min.js HTTP/1.1
+2022-12-09 17:26:13.589 | INFO     | __mp_main__:handle_client:71 - GET /john/css/animate.min.css HTTP/1.1
+2022-12-09 17:26:13.621 | INFO     | __mp_main__:handle_client:71 - GET /john/css/templatemo_style.css HTTP/1.1
+2022-12-09 17:26:13.620 | INFO     | __mp_main__:handle_client:71 - GET /john/css/normalize.min.css HTTP/1.1
+2022-12-09 17:26:13.636 | INFO     | __mp_main__:handle_client:71 - GET /john/css/bootstrap.min.css HTTP/1.1
+2022-12-09 17:26:13.637 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:26:13.640 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:26:13.645 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:26:13.645 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:26:13.647 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 09:26:13 GMT+0800 (CST) 
+2022-12-09 17:26:13.648 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:26:13.649 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 09:26:13 GMT+0800 (CST) 
+2022-12-09 17:26:13.651 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 09:26:13 GMT+0800 (CST) 
+2022-12-09 17:26:13.651 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 09:26:13 GMT+0800 (CST) 
+2022-12-09 17:26:13.652 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 17:26:13.653 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 09:26:13 GMT+0800 (CST) 
+2022-12-09 17:26:13.655 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 17:26:13.658 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 17:26:13.658 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 17:26:13.660 | INFO     | __mp_main__:handle_client:225 - Content-Length:15420 
+2022-12-09 17:26:13.661 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 17:26:13.662 | INFO     | __mp_main__:handle_client:217 - Content-Length:57485 
+2022-12-09 17:26:13.665 | INFO     | __mp_main__:handle_client:217 - Content-Length:14352 
+2022-12-09 17:26:13.664 | INFO     | __mp_main__:handle_client:217 - Content-Length:2502 
+2022-12-09 17:26:13.666 | INFO     | __mp_main__:handle_client:217 - Content-Length:109518 
+2022-12-09 17:26:13.913 | INFO     | __mp_main__:handle_client:71 - GET /john/images/service-bg.png HTTP/1.1
+2022-12-09 17:26:13.917 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:26:13.919 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 09:26:13 GMT+0800 (CST) 
+2022-12-09 17:26:13.921 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 17:26:13.924 | INFO     | __mp_main__:handle_client:177 - Content-Length:159770 
+2022-12-09 17:26:28.044 | INFO     | __mp_main__:handle_client:71 - GET /john/index1.py HTTP/1.1
+2022-12-09 17:26:28.049 | INFO     | __mp_main__:handle_client:105 - response_headers:HTTP/1.1 200 OK 
+2022-12-09 17:26:28.052 | INFO     | __mp_main__:handle_client:110 - Content-Type:text/html;charset=UTF-8 
+2022-12-09 17:26:57.263 | INFO     | __mp_main__:handle_client:71 - GET /john/index1.html HTTP/1.1
+2022-12-09 17:26:57.267 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:26:57.270 | INFO     | __mp_main__:handle_client:157 - Date:Fri, 09 Dec 2022 09:26:57 GMT+0800 (CST) 
+2022-12-09 17:26:57.271 | INFO     | __mp_main__:handle_client:159 - Content-Type: TEXT/HTML 
+2022-12-09 17:26:57.276 | INFO     | __mp_main__:handle_client:161 - Content-Length:12024 
+2022-12-09 17:26:58.205 | INFO     | __mp_main__:handle_client:71 - GET /john/css/animate.min.css HTTP/1.1
+2022-12-09 17:26:58.213 | INFO     | __mp_main__:handle_client:71 - GET /john/css/bootstrap.min.css HTTP/1.1
+2022-12-09 17:26:58.231 | INFO     | __mp_main__:handle_client:71 - GET /john/css/normalize.min.css HTTP/1.1
+2022-12-09 17:26:58.231 | INFO     | __mp_main__:handle_client:71 - GET /john/js/vendor/jquery-1.10.1.min.js HTTP/1.1
+2022-12-09 17:26:58.233 | INFO     | __mp_main__:handle_client:71 - GET /john/js/bootstrap.min.js HTTP/1.1
+2022-12-09 17:26:58.233 | INFO     | __mp_main__:handle_client:71 - GET /john/css/templatemo_style.css HTTP/1.1
+2022-12-09 17:26:58.234 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:26:58.236 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:26:58.242 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:26:58.243 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 09:26:58 GMT+0800 (CST) 
+2022-12-09 17:26:58.243 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:26:58.243 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:26:58.244 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:26:58.245 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 09:26:58 GMT+0800 (CST) 
+2022-12-09 17:26:58.248 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 09:26:58 GMT+0800 (CST) 
+2022-12-09 17:26:58.248 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 17:26:58.248 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 09:26:58 GMT+0800 (CST) 
+2022-12-09 17:26:58.249 | INFO     | __mp_main__:handle_client:213 - Date:Fri, 09 Dec 2022 09:26:58 GMT+0800 (CST) 
+2022-12-09 17:26:58.248 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 09:26:58 GMT+0800 (CST) 
+2022-12-09 17:26:58.250 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 17:26:58.252 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 17:26:58.253 | INFO     | __mp_main__:handle_client:217 - Content-Length:57485 
+2022-12-09 17:26:58.253 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 17:26:58.253 | INFO     | __mp_main__:handle_client:215 - Content-Type: text/css 
+2022-12-09 17:26:58.254 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 17:26:58.254 | INFO     | __mp_main__:handle_client:217 - Content-Length:109518 
+2022-12-09 17:26:58.259 | INFO     | __mp_main__:handle_client:217 - Content-Length:2502 
+2022-12-09 17:26:58.260 | INFO     | __mp_main__:handle_client:225 - Content-Length:31822 
+2022-12-09 17:26:58.260 | INFO     | __mp_main__:handle_client:217 - Content-Length:14352 
+2022-12-09 17:26:58.261 | INFO     | __mp_main__:handle_client:225 - Content-Length:93074 
+2022-12-09 17:26:59.048 | INFO     | __mp_main__:handle_client:71 - GET /john/js/plugins.js HTTP/1.1
+2022-12-09 17:26:59.048 | INFO     | __mp_main__:handle_client:71 - GET /john/js/vendor/modernizr-2.6.2.min.js HTTP/1.1
+2022-12-09 17:26:59.049 | INFO     | __mp_main__:handle_client:71 - GET /john/js/templatemo_custom.js HTTP/1.1
+2022-12-09 17:26:59.053 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:26:59.054 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:26:59.055 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:26:59.058 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 09:26:59 GMT+0800 (CST) 
+2022-12-09 17:26:59.058 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 09:26:59 GMT+0800 (CST) 
+2022-12-09 17:26:59.059 | INFO     | __mp_main__:handle_client:221 - Date:Fri, 09 Dec 2022 09:26:59 GMT+0800 (CST) 
+2022-12-09 17:26:59.060 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 17:26:59.061 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 17:26:59.062 | INFO     | __mp_main__:handle_client:223 - Content-Type: JS
+2022-12-09 17:26:59.064 | INFO     | __mp_main__:handle_client:225 - Content-Length:14626 
+2022-12-09 17:26:59.064 | INFO     | __mp_main__:handle_client:225 - Content-Length:15420 
+2022-12-09 17:26:59.065 | INFO     | __mp_main__:handle_client:225 - Content-Length:2200 
+2022-12-09 17:27:00.003 | INFO     | __mp_main__:handle_client:71 - GET /john/apple.mp3 HTTP/1.1
+2022-12-09 17:27:00.056 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:27:00.062 | INFO     | __mp_main__:handle_client:71 - GET /john/images/service-bg.png HTTP/1.1
+2022-12-09 17:27:00.072 | INFO     | __mp_main__:handle_client:71 - GET /john/images/slider-bg.png HTTP/1.1
+2022-12-09 17:27:00.075 | INFO     | __mp_main__:handle_client:71 - GET /john/images/uic.png HTTP/1.1
+2022-12-09 17:27:00.079 | INFO     | __mp_main__:handle_client:189 - Date:Fri, 09 Dec 2022 09:27:00 GMT+0800 (CST) 
+2022-12-09 17:27:00.080 | INFO     | __mp_main__:handle_client:71 - GET /john/images/slide1.png HTTP/1.1
+2022-12-09 17:27:00.084 | INFO     | __mp_main__:handle_client:71 - GET /john/twistzz.jpg HTTP/1.1
+2022-12-09 17:27:00.090 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:27:00.094 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:27:00.095 | INFO     | __mp_main__:handle_client:191 - Content-Type: MP3 
+2022-12-09 17:27:00.095 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:27:00.100 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:27:00.101 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 09:27:00 GMT+0800 (CST) 
+2022-12-09 17:27:00.102 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:27:00.103 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 09:27:00 GMT+0800 (CST) 
+2022-12-09 17:27:00.104 | INFO     | __mp_main__:handle_client:193 - Content-Length:2668713 
+2022-12-09 17:27:00.104 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 09:27:00 GMT+0800 (CST) 
+2022-12-09 17:27:00.106 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 09:27:00 GMT+0800 (CST) 
+2022-12-09 17:27:00.107 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 17:27:00.108 | INFO     | __mp_main__:handle_client:165 - Date:Fri, 09 Dec 2022 09:27:00 GMT+0800 (CST) 
+2022-12-09 17:27:00.109 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 17:27:00.110 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 17:27:00.113 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 17:27:00.114 | INFO     | __mp_main__:handle_client:177 - Content-Length:159770 
+2022-12-09 17:27:00.117 | INFO     | __mp_main__:handle_client:167 - Content-Type: image/jpg 
+2022-12-09 17:27:00.119 | INFO     | __mp_main__:handle_client:177 - Content-Length:18800 
+2022-12-09 17:27:00.118 | INFO     | __mp_main__:handle_client:177 - Content-Length:358447 
+2022-12-09 17:27:00.122 | INFO     | __mp_main__:handle_client:177 - Content-Length:90485 
+2022-12-09 17:27:00.124 | INFO     | __mp_main__:handle_client:169 - Content-Length:32637 
+2022-12-09 17:27:01.074 | INFO     | __mp_main__:handle_client:71 - GET /john/images/products-bg.png HTTP/1.1
+2022-12-09 17:27:01.081 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:27:01.083 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 09:27:01 GMT+0800 (CST) 
+2022-12-09 17:27:01.089 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 17:27:01.091 | INFO     | __mp_main__:handle_client:177 - Content-Length:238403 
+2022-12-09 17:27:01.103 | INFO     | __mp_main__:handle_client:71 - GET /john/images/product-1.png HTTP/1.1
+2022-12-09 17:27:01.109 | INFO     | __mp_main__:handle_client:71 - GET /john/123.jpg HTTP/1.1
+2022-12-09 17:27:01.114 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:27:01.118 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:27:01.139 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 09:27:01 GMT+0800 (CST) 
+2022-12-09 17:27:01.143 | INFO     | __mp_main__:handle_client:71 - GET /john/apple.mp3 HTTP/1.1
+2022-12-09 17:27:01.145 | INFO     | __mp_main__:handle_client:165 - Date:Fri, 09 Dec 2022 09:27:01 GMT+0800 (CST) 
+2022-12-09 17:27:01.146 | INFO     | __mp_main__:handle_client:71 - GET /john/Patrick.gif HTTP/1.1
+2022-12-09 17:27:01.151 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 17:27:01.157 | INFO     | __mp_main__:handle_client:167 - Content-Type: image/jpg 
+2022-12-09 17:27:01.159 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:27:01.162 | INFO     | __mp_main__:handle_client:71 - GET /john/images/video-bg.png HTTP/1.1
+2022-12-09 17:27:01.165 | INFO     | __mp_main__:handle_client:177 - Content-Length:37845 
+2022-12-09 17:27:01.165 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:27:01.171 | INFO     | __mp_main__:handle_client:169 - Content-Length:2799166 
+2022-12-09 17:27:01.173 | INFO     | __mp_main__:handle_client:189 - Date:Fri, 09 Dec 2022 09:27:01 GMT+0800 (CST) 
+2022-12-09 17:27:01.175 | INFO     | __mp_main__:handle_client:181 - Date:Fri, 09 Dec 2022 09:27:01 GMT+0800 (CST) 
+2022-12-09 17:27:01.177 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:27:01.182 | INFO     | __mp_main__:handle_client:191 - Content-Type: MP3 
+2022-12-09 17:27:01.183 | INFO     | __mp_main__:handle_client:183 - Content-Type: PNG
+2022-12-09 17:27:01.185 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 09:27:01 GMT+0800 (CST) 
+2022-12-09 17:27:01.188 | INFO     | __mp_main__:handle_client:185 - Content-Length:38614 
+2022-12-09 17:27:01.187 | INFO     | __mp_main__:handle_client:193 - Content-Length:2668713 
+2022-12-09 17:27:01.191 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 17:27:01.202 | INFO     | __mp_main__:handle_client:177 - Content-Length:277282 
+2022-12-09 17:27:01.908 | INFO     | __mp_main__:handle_client:71 - GET /john/happy.mp4 HTTP/1.1
+2022-12-09 17:27:01.923 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:27:01.930 | INFO     | __mp_main__:handle_client:197 - Date:Fri, 09 Dec 2022 09:27:01 GMT+0800 (CST) 
+2022-12-09 17:27:01.932 | INFO     | __mp_main__:handle_client:199 - Content-Type: MP4 
+2022-12-09 17:27:01.934 | INFO     | __mp_main__:handle_client:201 - Content-Length:32217766 
+2022-12-09 17:27:02.003 | INFO     | __mp_main__:handle_client:71 - GET /john/images/contact-bg.png HTTP/1.1
+2022-12-09 17:27:02.008 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:27:02.011 | INFO     | __mp_main__:handle_client:173 - Date:Fri, 09 Dec 2022 09:27:02 GMT+0800 (CST) 
+2022-12-09 17:27:02.013 | INFO     | __mp_main__:handle_client:175 - Content-Type: PNG
+2022-12-09 17:27:02.019 | INFO     | __mp_main__:handle_client:177 - Content-Length:830451 
+2022-12-09 17:27:02.115 | INFO     | __mp_main__:handle_client:71 - GET /john/123.jpg HTTP/1.1
+2022-12-09 17:27:02.118 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:27:02.120 | INFO     | __mp_main__:handle_client:165 - Date:Fri, 09 Dec 2022 09:27:02 GMT+0800 (CST) 
+2022-12-09 17:27:02.121 | INFO     | __mp_main__:handle_client:167 - Content-Type: image/jpg 
+2022-12-09 17:27:02.122 | INFO     | __mp_main__:handle_client:169 - Content-Length:2799166 
+2022-12-09 17:27:04.232 | INFO     | __mp_main__:handle_client:71 - GET /john/happy.mp4 HTTP/1.1
+2022-12-09 17:27:04.250 | INFO     | __mp_main__:handle_client:154 - HTTP/1.1 200 OK 
+2022-12-09 17:27:04.254 | INFO     | __mp_main__:handle_client:197 - Date:Fri, 09 Dec 2022 09:27:04 GMT+0800 (CST) 
+2022-12-09 17:27:04.257 | INFO     | __mp_main__:handle_client:199 - Content-Type: MP4 
+2022-12-09 17:27:04.265 | INFO     | __mp_main__:handle_client:201 - Content-Length:32217766 
